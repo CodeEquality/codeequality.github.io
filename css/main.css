@@ -5,5 +5,11 @@ body {
 
 .ce-section {
   padding-top: 50px;
-  border-bottom: 1px solid #dddddd;
-  padding-bottom: 18px; }
+  padding-bottom: 50px;
+  border-top: 1px solid #cccccc;
+  background-color: white; }
+
+.ce-feature-icons .ce-feature-icon {
+  background-color: #eeeeee;
+  padding: 12px;
+  margin-bottom: 12px; }
