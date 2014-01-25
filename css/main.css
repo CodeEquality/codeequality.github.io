@@ -16,3 +16,15 @@ h3 {
   border: 1px solid #eeeeee;
   padding: 12px;
   margin-bottom: 12px; }
+
+.ce-secondary-text {
+  font-style: italic; }
+
+.ce-event-details table.ce-logistics {
+  margin-bottom: 12px; }
+  .ce-event-details table.ce-logistics td {
+    padding: 6px; }
+  .ce-event-details table.ce-logistics tr td:first-child {
+    text-align: right; }
+  .ce-event-details table.ce-logistics tr td:nth-child(2) {
+    font-weight: bold; }
