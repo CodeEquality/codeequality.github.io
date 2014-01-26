@@ -1,19 +1,21 @@
 $(function(){
-	var bsHiddenClass = "hide"
+
+	$(".ce-default-hidden").hide();
+
 	$(".ce-btn-show-details").click(function(e){
 		e.preventDefault();
 		var eventDetailsObj = $(this).parents(".ce-event").children(".ce-event-details");
 
-		if(eventDetailsObj.hasClass(bsHiddenClass))
+		if(eventDetailsObj.is(":hidden"))
 		{
-			eventDetailsObj.removeClass(bsHiddenClass);
-			$(this).html("Hide details &laquo;")
+			eventDetailsObj.slideDown("fast");
+			$(this).html("Hide details &laquo;");
 
 		}
 		else
 		{
-			eventDetailsObj.addClass(bsHiddenClass);
-			$(this).html("View details &raquo;")
+			eventDetailsObj.slideUp("fast");
+			$(this).html("View details &raquo;");
 		}
 	})
 });
