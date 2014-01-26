@@ -9,10 +9,10 @@ $secondary-color: #9BE0EB
 $tertiary-color: #555555
 $unimportant-color: #888888
 
-
 $font-giant: 200%
 $font-super-giant: 250%
 $space: 12px
+$thumb-size: 170px
 
 body
   padding-top: 50px
@@ -24,7 +24,7 @@ h1, h2, h3, h4
 
 h4
   font-weight: 400
-  
+
 h3 
   color: $tertiary-color  
 
@@ -34,6 +34,19 @@ footer
 
 .jumbotron
   margin-bottom: 0
+
+.ce-thumbnail
+  width: $thumb-size
+  height: $thumb-size
+  overflow: hidden
+  padding: 15px 15px 15px 0
+  img 
+    width: $thumb-size
+    opacity: 0.8
+    &:hover
+      opacity: 1
+
+
 
 .ce-section
   padding-top: 50px
@@ -52,6 +65,26 @@ footer
 
 .ce-secondary-text
   font-style: italic
+
+.ce-event-card
+  border: 1px solid $background-color
+  border-bottom: 3px solid $primary-color
+  padding: 0 15px
+  min-height: 200px
+  display: table
+  .ce-event, .ce-thumbnail
+    display: table-cell
+    vertical-align: top
+  table.ce-event-logistics
+    font-weight: 700
+    tr td 
+      padding: 0 $space/2
+      border-right: 1px solid #ddd
+
+      &:last-child
+        border-right: 0px solid #ddd
+        
+
 
 .ce-event-details
   table.ce-logistics

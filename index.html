@@ -17,8 +17,9 @@
   <link href="css/main.css" rel="stylesheet"></head>
 
 <body>
+  <a id="top"></a>
 
-  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="navbar navbar-inverse navbar-fixed-top"role="navigation">
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -27,7 +28,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="#top">
           <img height="26px" src="img/logo_alt_2_dark.png" alt="CodeEquality"/>
         </a>
       </div>
@@ -74,65 +75,74 @@
         . If you'd like to attend any of them, please check the event descriptions for registration details.
       </p>
       <div class="row">
-        <div class="col-md-4 ce-event">
-          <div class="ce-event-hook">
-            <h3>What Is It Like Working In Tech?</h3>
-            <p>
-              Hear from Carolyn Au, a software engineer at Google about working in the Silicon Valley, learning programming and pursuing Computer Science.
-            </p>
-          </div>
+        <div class="col-md-6">
+          <div class="ce-event-card">
+            <a class="ce-thumbnail">
+              <img src="img/events/01.jpg"/>
+            </a>
+            <div class="ce-event">
+              <h3>
+                What Is It Like Working In Tech?
+                <span class="label label-default">Talk</span>
+              </h3>
+              <p>
+                <table class="ce-event-logistics">
+                  <tr>
+                    <td>6 Feb '14, 4pm-5pm</td>
+                    <td>Audi 7, Sunway College</td>
+                  </tr>
+                </table>
+              </p>
+              <p>
+                Hear from Carolyn Au, a software engineer at Google about working in the Silicon Valley, learning programming and pursuing Computer Science.
+              </p>
+              <div class="ce-event-details well ce-default-hidden">
+                <p><span class="glyphicon glyphicon-info-sign"></span>
+                <strong>Sign up online
+                <a href="bit.ly/1aHWxJF">here</a>
+                . For more information, please email us at
+                <a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a>
+                .</strong>
+                </p>  
+                <p class="ce-secondary-text">
+                  Carolyn Au is a Senior Software Engineer at Google, working on Google Now. She previously worked on Google Desktop and Google+. Before joining Google, she was the Lead Frontend Engineer at Ruba, a social travel site. She is passionate about building intuitive and delightful user interfaces. Carolyn graduated with a BSc Computer Science and Human-Computer Interaction from Carnegie Mellon University.
+                </p>
+              </div>
+              <p>
+                <a class="btn btn-default ce-btn-show-details" href="#" role="button">View details &raquo;</a>
+              </p>
 
-          <div class="ce-event-details well ce-default-hidden">
-            <table class="ce-logistics">
-              <tr>
-                <td>
-                  <span class="glyphicon glyphicon-time"></span>
-                </td>
-                <td>6 Feb '14, 4pm-5pm</td>
-              </tr>
-              <tr>
-                <td>
-                  <span class="glyphicon glyphicon-map-marker"></span>
-                </td>
-                <td>Audi 7, Sunway College</td>
-              </tr>
-              <tr>
-                <td>
-                  <span class="glyphicon glyphicon-info-sign"></span>
-                </td>
-                <td>
-                  Sign up online
-                  <a href="bit.ly/1aHWxJF">here</a>
-                  . For more information, please email us at
-                  <a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a>
-                  .
-                </td>
-              </tr>
-            </table>
-            <p class="ce-secondary-text">
-              Carolyn Au is a Senior Software Engineer at Google, working on Google Now. She previously worked on Google Desktop and Google+. Before joining Google, she was the Lead Frontend Engineer at Ruba, a social travel site. She is passionate about building intuitive and delightful user interfaces. Carolyn graduated with a BSc Computer Science and Human-Computer Interaction from Carnegie Mellon University.
-            </p>
+            </div>
           </div>
-          <p>
-            <a class="btn btn-default ce-btn-show-details" href="#" role="button">View details &raquo;</a>
-          </p>
         </div>
 
-        <div class="col-md-4 ce-event">
-          <div class="ce-event-hook">
-            <h3>An Introduction To Coding Weekend Camp</h3>
+        <div class="col-md-6">
+          <div class="ce-event-card">
+            <a class="ce-thumbnail">
+              <img src="img/events/00.png"/>
+            </a>
+            <div class="ce-event">
+              <h3>
+                An Introduction To Coding Weekend Camp
+                <span class="label label-default">Course</span>
+              </h3>
+              <p>
+                This is an event for those who have always been interested in learning how to code cool programs or gow to build websites but have never gotten the chance to.
+              </p>
+
+              <div class="ce-event-details well ce-default-hidden">
+                <p>
+                  <span class="glyphicon glyphicon-info-sign"></span><strong> Event details TBA.</strong>
+                </p>
+                <p>
+                  This all-day weekend camp is broken into two parts: Day 1 will be an introduction to coding as a whole with Python and to web development with HTML/CSS. Day 2 consists of two separate tracks, Python and Web Development that delve deeper into each topic. You get to pick which one to join. No prior programming experience required.
+                </p>
+              </div>
             <p>
-              This is an event for those who have always been interested in learning how to code cool programs or gow to build websites but have never gotten the chance to. This all-day weekend camp is broken into two parts: Day 1 will be an introduction to coding as a whole with Python and to web development with HTML/CSS. Day 2 consists of two separate tracks, Python and Web Development that delve deeper into each topic. You get to pick which one to join. No prior programming experience required.
+              <a class="btn btn-default ce-btn-show-details" href="#" role="button">View details &raquo;</a>
+            </div>
             </p>
           </div>
-
-          <div class="ce-event-details well ce-default-hidden">
-            <strong>Event details TBA</strong>
-          </div>
-
-          <p>
-            <a class="btn btn-default ce-btn-show-details" href="#" role="button">View details &raquo;</a>
-          </p>
         </div>
       </div>
     </section>
@@ -237,12 +247,12 @@
         <h2>Contact Us</h2>
         <p>
           Questions about CodeEquality? Want to find out more about our events? Want to get involved? Feel free to reach out to us any time via the following means:
-          <ul>
-            <li>
+          <ul class="list-group">
+            <li class="list-group-item">
               Email:
               <a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a>
             </li>
-            <li>
+            <li class="list-group-item">
               Twitter:
               <a target="_blank" href="http://twitter.com/codeequality">@codeequality</a>
             </li>
