@@ -36,7 +36,7 @@ $(function() {
   });
 });
 
-//Toggle logo
+//Toggle logo tool
 $(function(){
 	var dir = "img/"
 	var options = ["logo", "logo_alt", "logo_alt_2", "logo_alt_3"];
@@ -46,6 +46,16 @@ $(function(){
 		curr = ++curr % options.length;
 		$('.navbar-brand > img').attr('src', dir + options[curr] + "_dark.png");
 		$('#about img.logo').attr('src', dir + options[curr] + ".png");
-	})
+	});
+});
 
-})
+//Hide responsive menu on menu item click
+$(function(){
+	var navbarToggle = $('.navbar-toggle');
+
+	$(".navbar-nav li a").click(function(){
+		if(navbarToggle.is(":visible")){
+			navbarToggle.trigger('click');
+		}
+	});
+});
