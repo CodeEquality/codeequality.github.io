@@ -29,6 +29,8 @@ footer {
   text-align: center;
   padding: 12px;
   margin-bottom: 12px; }
+  .ce-feature-icons .ce-feature-icon .img-responsive {
+    margin: 0 auto; }
 
 .ce-secondary-text {
   font-style: italic; }
