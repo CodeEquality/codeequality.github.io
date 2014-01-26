@@ -1,6 +1,6 @@
-/* Move down content because we have a fixed navbar that is 50px tall */
 @import url(http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic);
 @import url(http://fonts.googleapis.com/css?family=Roboto);
+/* Move down content because we have a fixed navbar that is 50px tall */
 body {
   padding-top: 50px;
   padding-bottom: 20px;
@@ -12,6 +12,9 @@ h1, h2, h3 {
 
 h3 {
   color: #555555; }
+
+.jumbotron {
+  margin-bottom: 0; }
 
 .ce-section {
   padding-top: 50px;
