@@ -39,7 +39,7 @@ $(function() {
 //Toggle logo
 $(function(){
 	var dir = "img/"
-	var options = ["logo", "logo_alt", "logo_alt_2"];
+	var options = ["logo", "logo_alt", "logo_alt_2", "logo_alt_3"];
 	var curr = 0;
 
 	$('.ce-btn-logo-toggle').click(function(){
