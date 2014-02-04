@@ -1,6 +1,6 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
 @import url(http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic);
 @import url(http://fonts.googleapis.com/css?family=Roboto);
-/* Move down content because we have a fixed navbar that is 50px tall */
 body {
   padding-top: 50px;
   font-family: "Roboto", sans-serif; }
@@ -17,10 +17,14 @@ h3 {
 
 footer {
   background-color: #eeeeee;
-  color: #888888; }
+  color: #888888;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-size: 0.9em; }
 
 .jumbotron {
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  padding-top: 62px; }
 
 .ce-thumbnail {
   display: block;
@@ -55,8 +59,11 @@ footer {
 
 .ce-event-card {
   border: 1px solid #eeeeee;
-  border-bottom: 3px solid #f25405;
+  border-bottom: 3px solid #cccccc;
+  background-color: white;
+  color: #888888;
   padding: 0 15px;
+  margin-bottom: 12px;
   min-height: 230px;
   display: table; }
   .ce-event-card .ce-event, .ce-event-card .ce-thumbnail {
@@ -90,3 +97,20 @@ footer {
     text-align: right; }
   .ce-event-details table.ce-logistics tr td:nth-child(2) {
     font-weight: bold; }
+
+.ce-contact-list {
+  list-style: none;
+  padding: 0px; }
+  .ce-contact-list .ce-contact-list-item {
+    line-height: 18px;
+    margin: 12px auto; }
+
+.ce-contact-icon {
+  width: 18px;
+  margin-right: 6px;
+  font-size: 18px;
+  color: #f25405; }
+
+.ce-highlight-section {
+  background-color: #f25405;
+  color: white; }
