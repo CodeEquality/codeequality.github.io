@@ -105,15 +105,18 @@ footer {
   list-style: none;
   padding: 0px; }
   .ce-contact-list .ce-contact-list-item {
-    line-height: 18px;
+    line-height: 28px;
     margin: 12px auto; }
 
 .ce-contact-icon {
-  width: 18px;
+  width: 28px;
   margin-right: 6px;
-  font-size: 18px;
+  font-size: 28px;
   color: #f25405; }
 
 .ce-highlight-section {
   background-color: #fb6c25;
   color: white; }
+
+.strong {
+  font-weight: 700; }

@@ -17,6 +17,15 @@
   <link href="css/main.css" rel="stylesheet"></head>
 
 <body>
+  <!-- Facebook SDK -->
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=121188047967674";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
   <a id="top"></a>
 
   <div class="navbar navbar-inverse navbar-fixed-top"role="navigation">
@@ -46,6 +55,9 @@
           </li>
           <li>
             <a href="#contactus">Contact Us</a>
+          </li>
+          <li>
+            <div class="fb-like" data-href="https://facebook.com/codeequality" data-layout="standard" data-action="like" data-show-faces="false" data-share="false"></div>
           </li>
         </ul>
       </nav>
@@ -118,7 +130,7 @@
         <div class="ce-event-card">
           <div class="ce-thumbnail">
             <div class="ce-thumbnail-image">
-              <img src="img/events/00.png"/>
+              <img src="img/get-involved-icons/ce-icons-involve-02.png"/>
               <span class="ce-thumb-label">Camp</span>
             </div>
           </div>
@@ -153,41 +165,49 @@
     <div  class="container">
       <!-- <button class="btn ce-btn-logo-toggle">Toggle logo</button> -->
       <h2>About</h2>
+    <div  class="row">
+      <div class="col-md-4">
       <h3>What is Code Equality?</h3>
-      <p>
-        Code Equality is a non-profit initiative that aims to promote computer science among Malaysians, with the hope that those who gain early exposure would go on to pursue a career in tech.
-      </p>
+        <p>
+          Code Equality is a non-profit initiative that aims to promote computer science among Malaysians, with the hope that those who gain early exposure would go on to pursue a career in tech.
+        </p>
 
-      <p>
-        Our goals are two-fold:
-        <ul>
-          <li>Making computer science education more accessible to all Malaysians.</li>
-          <li>Encouraging more women participation in computer science.</li>
-        </ul>
-      </p>
-      <p>
-        We believe in equal opportunities in learning computer science, hence our name -- Code Equality. As such, we strive to ensure our events are available to all.
-      </p>
+        <p>
+          Our goals are two-fold:
+          <ul class="strong">
+            <li>Making computer science education more accessible to all Malaysians.</li>
+            <li>Encouraging more women participation in computer science.</li>
+          </ul>
+        </p>
+        <p>
+          We believe in equal opportunities in learning computer science, hence our name -- Code Equality. As such, we strive to ensure our events are available to all.
+        </p>
+      </div>
 
 
-      <h3>How did we start?</h3>
-      <p>
-        Long story short: it was difficult talking to organizations and schools as two random people who want to offer programming courses. It made sense to build an organization to represent our objectives. So here we are.
-      </p>
+      <div class="col-md-4">
+        <h3>Who are we?</h3>
+        <p>We're currently a team of two co-founders.</p>
+        <p>
+          <strong>Wunmin Wong</strong>
+          Wunmin graduated from MIT in Management Science with minors in Energy and Economics. Her biggest regret is not majoring in Computer Science in university, hence she’s now turning that missed opportunity into a motivation to prevent other young Malaysians from having the same regret.
+        </p>
 
-      <h3>Who are we?</h3>
-      <p>We're currently a team of two co-founders.</p>
-      <p>
-        <strong>Wunmin Wong</strong>
-        Wunmin graduated from MIT in Management Science with minors in Energy and Economics. Her biggest regret is not majoring in Computer Science in university, hence she’s now turning that missed opportunity into a motivation to prevent other young Malaysians from having the same regret.
-      </p>
+        <p>
+          <strong><a target="_blank" href="http://behance.net/piratefsh">Sher Minn Chong</a></strong>
+         Sher Minn graduated from the University of Wisconsin-Madison with a degree in Computer Science. She is a consultant at IBM Malaysia during the day and a freelance web developer and designer by night. She's always excited about teaching programming, web development and design, hand-brewed coffee and bad puns. You can find her on
+          <a target="_blank" href="http://twitter.com/piratefsh">Twitter</a>
+          most days.
+        </p>
+      </div>
 
-      <p>
-        <strong><a href="http://behance.net/piratefsh">Sher Minn Chong</a></strong>
-       Sher Minn graduated from the University of Wisconsin-Madison with a degree in Computer Science. She is a consultant at IBM Malaysia during the day and a freelance web developer and designer by night. Mostly self-taught in design and web, she also developed an interest in teaching as a student instructor at her alma mater. She's always excited about teaching programming, web development and design, hand-brewed coffee and bad puns. You can find her on
-        <a target="_blank"  href="http://twitter.com/piratefsh">Twitter</a>
-        most days.
-      </p>
+      <div class="col-md-4">
+        <h3>How did we start?</h3>
+        <p>
+          Long story short: it was difficult talking to organizations and schools as two random people who want to offer programming courses. It made sense to build an organization to represent our objectives. So here we are.
+        </p>
+      </div>
+    </div>
     </div>
   </section>
 
@@ -244,13 +264,13 @@
               <span class="glyphicon glyphicon-envelope ce-contact-icon"></span>
               <a target="_blank" href="mailto:codeequality@gmail.com">Email codeequality@gmail.com</a>
             </li>
-            <li class="col-sm-6 col-md-4 ce-contact-list-item">
-              <img class="ce-contact-icon" src="img/contact-icons/twitter.png"/>
-              <a target="_blank" href="http://twitter.com/codeequality">@codeequality on Twitter</a>
-            </li>
             <li class="col-sm-12 col-md-4 ce-contact-list-item">
               <img class="ce-contact-icon" src="img/contact-icons/fb.png"/>
               <a target="_blank" href="http://facebook.com/codeequality">CodeEquality on Facebook</a>
+            </li>
+            <li class="col-sm-6 col-md-4 ce-contact-list-item">
+              <img class="ce-contact-icon" src="img/contact-icons/twitter.png"/>
+              <a target="_blank" href="http://twitter.com/codeequality">@codeequality on Twitter</a>
             </li>
           </ul>
         </p>

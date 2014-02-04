@@ -70,4 +70,8 @@ $(function(){
 		navChildren[i] = $("a", nav[i]).attr('href')
 		console.log(navChildren[i]);
 	}
+
+	$(window).scroll(function(){
+		
+	})
 });
