@@ -25,7 +25,9 @@ footer {
 .jumbotron {
   margin-bottom: 0;
   padding-top: 62px;
-  background-color: #eeeeee; }
+  background-color: #eeeeee;
+  font-family: "Arvo", sans-serif;
+  color: #888888; }
 
 .ce-thumbnail {
   display: block;
@@ -43,7 +45,7 @@ footer {
         opacity: 1; }
 
 .ce-section {
-  padding-top: 50px;
+  padding-top: 20px;
   padding-bottom: 50px;
   border-top: 1px solid #cccccc;
   background-color: white; }
@@ -113,5 +115,5 @@ footer {
   color: #f25405; }
 
 .ce-highlight-section {
-  background-color: #f25405;
+  background-color: #fb6c25;
   color: white; }

@@ -18,12 +18,13 @@ $space: 12px
 $thumb-size: 170px
 $small-icon-width: 18px
 
+$title-font-family: 'Arvo', sans-serif
 body
   padding-top: 50px
   font-family: 'Roboto', sans-serif
 
 h1, h2, h3, h4
-  font-family: 'Arvo', sans-serif
+  font-family: $title-font-family
   font-weight: 700
 
 h4
@@ -43,6 +44,8 @@ footer
   margin-bottom: 0
   padding-top: $space + 50px
   background-color: #eee
+  font-family: $title-font-family
+  color: $grey
 
 .ce-thumbnail
   display: block
@@ -60,7 +63,7 @@ footer
         opacity: 1
 
 .ce-section
-  padding-top: 50px
+  padding-top: 20px
   padding-bottom: 50px
 
   border-top: 1px solid $neutral-color
@@ -136,5 +139,5 @@ footer
   color: $primary-color
 
 .ce-highlight-section
-  background-color: $primary-color
+  background-color: lighten($primary-color, 8%)
   color: white
