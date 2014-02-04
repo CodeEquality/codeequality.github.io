@@ -59,3 +59,15 @@ $(function(){
 		}
 	});
 });
+
+//Highlight active section in nav 
+$(function(){
+	//Get nav children
+	var nav = $(".navbar-nav").children();
+	var navChildren =  [nav.length];
+
+	for(var i = 0; i < nav.length; i++){
+		navChildren[i] = $("a", nav[i]).attr('href')
+		console.log(navChildren[i]);
+	}
+});
