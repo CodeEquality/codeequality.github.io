@@ -123,3 +123,6 @@ footer {
   padding-right: 0 !important; }
 .ce-nav-social-media .ce-nav-social-media-icon {
   width: 28px; }
+
+.navbar-nav > li > a {
+  padding: 17px; }
