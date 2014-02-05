@@ -128,5 +128,5 @@ footer {
   padding: 17px; }
 
 .active {
-  background-color: #f25405;
-  color: white !important; }
+  border-bottom: 4px solid #f25405;
+  color: #f25405 !important; }
