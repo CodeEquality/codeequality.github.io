@@ -60,18 +60,28 @@ $(function(){
 	});
 });
 
-//Highlight active section in nav 
+//Highlight active section in nav. Modified from http://jsfiddle.net/x3V6Y/ 
 $(function(){
-	//Get nav children
-	var nav = $(".navbar-nav").children();
-	var navChildren =  [nav.length];
+    var sections = {},
+        _height  = $(window).height(),
+        i        = 0;
+    
+    // Grab positions of our sections 
+    $('section').each(function(){
+        sections[this.id] = $(this).offset().top;
+    });
 
-	for(var i = 0; i < nav.length; i++){
-		navChildren[i] = $("a", nav[i]).attr('href')
-		console.log(navChildren[i]);
-	}
+    $(document).scroll(function(){
+        var $this = $(this),
+            pos   = $this.scrollTop();
 
-	$(window).scroll(function(){
-		
-	})
+        pos += $($('.navbar')[0]).height();
+            
+        for(i in sections){
+            if(sections[i] < pos && sections[i] < pos + _height){
+                $('a').removeClass('active');
+                $("a[href=#" + i + "]").addClass('active');
+            }  
+        }
+    });
 });

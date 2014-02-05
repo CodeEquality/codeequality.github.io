@@ -126,3 +126,7 @@ footer {
 
 .navbar-nav > li > a {
   padding: 17px; }
+
+.active {
+  background-color: #f25405;
+  color: white !important; }
