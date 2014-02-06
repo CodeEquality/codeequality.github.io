@@ -1,0 +1,135 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+@import url(http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic);
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+body {
+  padding-top: 50px;
+  font-family: "Roboto", sans-serif; }
+
+h1, h2, h3, h4 {
+  font-family: "Arvo", sans-serif;
+  font-weight: 700; }
+
+h4 {
+  font-weight: 400; }
+
+h3 {
+  color: #555555; }
+
+footer {
+  background-color: #555555;
+  color: #888888;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-size: 0.9em; }
+
+.jumbotron {
+  margin-bottom: 0;
+  padding-top: 62px;
+  background-color: #eeeeee;
+  font-family: "Arvo", sans-serif;
+  color: #888888; }
+
+.ce-thumbnail {
+  display: block;
+  overflow: hidden;
+  padding: 15px 15px 15px 0; }
+  .ce-thumbnail .ce-thumbnail-image {
+    position: relative;
+    overflow: hidden;
+    width: 170px;
+    height: 170px; }
+    .ce-thumbnail .ce-thumbnail-image img {
+      width: 170px; }
+
+.ce-section {
+  padding-top: 54px;
+  padding-bottom: 50px;
+  border-top: 1px solid #cccccc;
+  background-color: white; }
+
+.ce-feature-icons .ce-feature-icon {
+  text-align: center;
+  padding: 12px;
+  margin-bottom: 12px; }
+  .ce-feature-icons .ce-feature-icon .img-responsive {
+    margin: 0 auto; }
+
+.ce-secondary-text {
+  font-style: italic; }
+
+.ce-highlight-section {
+  background-color: #fb6c25;
+  color: white; }
+  .ce-highlight-section > div > p > a {
+    color: white;
+    text-decoration: underline; }
+
+.ce-event-card {
+  border: 1px solid #eeeeee;
+  border-bottom: 3px solid #cccccc;
+  background-color: white;
+  color: #888888;
+  padding: 0 15px;
+  margin-bottom: 12px;
+  min-height: 230px;
+  display: table; }
+  .ce-event-card .ce-event, .ce-event-card .ce-thumbnail {
+    display: table-cell;
+    vertical-align: top; }
+  .ce-event-card table.ce-event-logistics {
+    font-weight: 700; }
+    .ce-event-card table.ce-event-logistics tr td {
+      padding: 0 6px;
+      border-right: 1px solid #dddddd; }
+      .ce-event-card table.ce-event-logistics tr td:first-child {
+        padding-left: 0; }
+      .ce-event-card table.ce-event-logistics tr td:last-child {
+        border-right: 0px solid #dddddd; }
+
+.ce-thumb-label {
+  width: 170px;
+  display: block;
+  background-color: #f25405;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  position: absolute;
+  bottom: 0; }
+
+.ce-event-details table.ce-logistics {
+  margin-bottom: 12px; }
+  .ce-event-details table.ce-logistics td {
+    padding: 6px; }
+  .ce-event-details table.ce-logistics tr td:first-child {
+    text-align: right; }
+  .ce-event-details table.ce-logistics tr td:nth-child(2) {
+    font-weight: bold; }
+
+.ce-contact-list {
+  list-style: none;
+  padding: 0px; }
+  .ce-contact-list .ce-contact-list-item {
+    line-height: 28px;
+    margin: 12px auto; }
+
+.ce-contact-icon {
+  width: 28px;
+  margin-right: 6px;
+  font-size: 28px;
+  color: #f25405; }
+
+.strong {
+  font-weight: 700; }
+
+.ce-nav-social-media a {
+  padding: 13px !important;
+  padding-right: 0 !important; }
+.ce-nav-social-media .ce-nav-social-media-icon {
+  width: 28px; }
+
+.navbar-nav > li > a {
+  padding: 17px; }
+
+.active {
+  border-bottom: 4px solid #f25405;
+  color: #f25405 !important; }
