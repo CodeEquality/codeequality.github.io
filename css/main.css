@@ -164,7 +164,8 @@ footer {
   color: #555555;
   font-style: italic;
   background-color: #eeeeee;
-  padding: 4px; }
+  padding: 4px;
+  float: right; }
 
 .ce-event-description {
   font-size: 18px;
