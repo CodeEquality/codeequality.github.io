@@ -1,6 +1,6 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
 @import url(http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic);
 @import url(http://fonts.googleapis.com/css?family=Roboto);
-/* Move down content because we have a fixed navbar that is 50px tall */
 body {
   padding-top: 50px;
   font-family: "Roboto", sans-serif; }
@@ -57,6 +57,13 @@ footer {
 .ce-secondary-text {
   font-style: italic; }
 
+.ce-highlight-section {
+  background-color: #fb6c25;
+  color: white; }
+  .ce-highlight-section > div > p > a {
+    color: white;
+    text-decoration: underline; }
+
 .ce-event-card {
   border: 1px solid #eeeeee;
   border-bottom: 3px solid #cccccc;
@@ -110,10 +117,6 @@ footer {
   margin-right: 6px;
   font-size: 28px;
   color: #f25405; }
-
-.ce-highlight-section {
-  background-color: #fb6c25;
-  color: white; }
 
 .strong {
   font-weight: 700; }
