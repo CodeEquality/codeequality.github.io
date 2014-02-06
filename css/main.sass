@@ -18,11 +18,13 @@ $font-super-giant: 250%
 $space: 12px
 $thumb-size: 170px
 $small-icon-width: 28px
+$footer-height: 100px
 
 $title-font-family: 'Arvo', sans-serif
 body
   padding-top: 50px
   font-family: 'Roboto', sans-serif
+  height: 100%
 
 h1, h2, h3, h4
   font-family: $title-font-family
@@ -40,6 +42,13 @@ footer
   padding-top: $space 
   padding-bottom: $space 
   font-size: 0.9em
+  position: absolute
+  width: 100%
+  bottom: 0 
+  height: $footer-height
+
+.ce-content 
+  padding-bottom: $footer-height
 
 .jumbotron
   margin-bottom: 0
@@ -180,8 +189,6 @@ footer
   padding-bottom: $space*2 
   background-color: $background-color
 
-.ce-event-details
-
 .ce-event-date-posted
   color: $dark-grey
   font-style: italic
@@ -191,3 +198,7 @@ footer
 .ce-event-description
   font-size: 18px
   font-family: $title-font-family
+
+.ce-wrapper
+  min-height: 100%
+  position: relative

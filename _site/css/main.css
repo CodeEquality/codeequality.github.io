@@ -3,7 +3,8 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto);
 body {
   padding-top: 50px;
-  font-family: "Roboto", sans-serif; }
+  font-family: "Roboto", sans-serif;
+  height: 100%; }
 
 h1, h2, h3, h4 {
   font-family: "Arvo", sans-serif;
@@ -20,7 +21,14 @@ footer {
   color: #888888;
   padding-top: 12px;
   padding-bottom: 12px;
-  font-size: 0.9em; }
+  font-size: 0.9em;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  height: 100px; }
+
+.ce-content {
+  padding-bottom: 100px; }
 
 .jumbotron {
   margin-bottom: 0;
@@ -161,3 +169,7 @@ footer {
 .ce-event-description {
   font-size: 18px;
   font-family: "Arvo", sans-serif; }
+
+.ce-wrapper {
+  min-height: 100%;
+  position: relative; }
