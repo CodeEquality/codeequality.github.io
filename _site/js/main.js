@@ -80,7 +80,7 @@ $(function(){
         for(i in sections){
             if(sections[i] < pos && sections[i] < pos + _height){
                 $('a').removeClass('active');
-                $("a[href=#" + i + "]").addClass('active');
+                $('a[href="/index.html#' + i + '"]').addClass('active');
             }  
         }
     });
