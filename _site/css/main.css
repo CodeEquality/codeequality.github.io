@@ -73,6 +73,8 @@ footer {
   margin-bottom: 12px;
   min-height: 230px;
   display: table; }
+  .ce-event-card h3 a {
+    color: #333333; }
   .ce-event-card .ce-event, .ce-event-card .ce-thumbnail {
     display: table-cell;
     vertical-align: top; }
@@ -96,14 +98,24 @@ footer {
   position: absolute;
   bottom: 0; }
 
-.ce-event-details table.ce-logistics {
-  margin-bottom: 12px; }
-  .ce-event-details table.ce-logistics td {
-    padding: 6px; }
-  .ce-event-details table.ce-logistics tr td:first-child {
-    text-align: right; }
-  .ce-event-details table.ce-logistics tr td:nth-child(2) {
-    font-weight: bold; }
+.ce-event-logistics {
+  font-weight: 700;
+  color: #888888; }
+  .ce-event-logistics tr td {
+    padding: 0 6px;
+    border-right: 1px solid #dddddd; }
+    .ce-event-logistics tr td:first-child {
+      padding-left: 0; }
+    .ce-event-logistics tr td:last-child {
+      border-right: 0px solid #dddddd; }
+
+.ce-event-header .ce-event-logistics {
+  color: #f25405; }
+  .ce-event-header .ce-event-logistics tr td {
+    padding: 0 6px;
+    border-right: 1px solid #f25405; }
+    .ce-event-header .ce-event-logistics tr td:last-child {
+      border-right: 0px solid #dddddd; }
 
 .ce-contact-list {
   list-style: none;
@@ -133,3 +145,19 @@ footer {
 .active {
   border-bottom: 4px solid #f25405;
   color: #f25405 !important; }
+
+.ce-event-header {
+  margin-bottom: 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  background-color: #eeeeee; }
+
+.ce-event-date-posted {
+  color: #555555;
+  font-style: italic;
+  background-color: #eeeeee;
+  padding: 4px; }
+
+.ce-event-description {
+  font-size: 18px;
+  font-family: "Arvo", sans-serif; }

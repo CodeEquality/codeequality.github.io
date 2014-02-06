@@ -8,6 +8,7 @@ $primary-color: #F25405
 $secondary-color: #9BE0EB
 $tertiary-color: #555555
 $unimportant-color: #888888
+$body-color: #333
 $grey: #888
 $light-grey: #ccc
 $dark-grey: #555
@@ -97,6 +98,8 @@ footer
   margin-bottom: $space
   min-height: 230px
   display: table
+  h3 a 
+    color: $body-color
   .ce-event, .ce-thumbnail
     display: table-cell
     vertical-align: top
@@ -121,17 +124,25 @@ footer
   position: absolute
   bottom: 0
 
-.ce-event-details
-  table.ce-logistics
-    margin-bottom: $space
+.ce-event-logistics
+  font-weight: 700
+  color: $grey
+  tr td 
+    padding: 0 $space/2
+    border-right: 1px solid #ddd
+    &:first-child
+      padding-left: 0
+    &:last-child
+      border-right: 0px solid #ddd
 
-    td
-      padding: $space / 2
-    tr
-      td:first-child
-        text-align: right
-      td:nth-child(2)
-        font-weight: bold
+.ce-event-header
+  .ce-event-logistics
+    color: $primary-color
+    tr td 
+      padding: 0 $space/2
+      border-right: 1px solid $primary-color
+      &:last-child
+        border-right: 0px solid #ddd
 
 .ce-contact-list
   list-style: none
@@ -162,3 +173,21 @@ footer
 .active
   border-bottom: 4px solid $primary-color
   color: $primary-color !important
+
+.ce-event-header
+  margin-bottom: $space * 2
+  padding-top: $space*2 
+  padding-bottom: $space*2 
+  background-color: $background-color
+
+.ce-event-details
+
+.ce-event-date-posted
+  color: $dark-grey
+  font-style: italic
+  background-color: $background-color
+  padding: $space/3
+
+.ce-event-description
+  font-size: 18px
+  font-family: $title-font-family
