@@ -3,7 +3,8 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto);
 body {
   padding-top: 50px;
-  font-family: "Roboto", sans-serif; }
+  font-family: "Roboto", sans-serif;
+  height: 100%; }
 
 h1, h2, h3, h4 {
   font-family: "Arvo", sans-serif;
@@ -20,7 +21,14 @@ footer {
   color: #888888;
   padding-top: 12px;
   padding-bottom: 12px;
-  font-size: 0.9em; }
+  font-size: 0.9em;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  height: 100px; }
+
+.ce-content {
+  padding-bottom: 100px; }
 
 .jumbotron {
   margin-bottom: 0;
@@ -73,6 +81,8 @@ footer {
   margin-bottom: 12px;
   min-height: 230px;
   display: table; }
+  .ce-event-card h3 a {
+    color: #333333; }
   .ce-event-card .ce-event, .ce-event-card .ce-thumbnail {
     display: table-cell;
     vertical-align: top; }
@@ -96,14 +106,24 @@ footer {
   position: absolute;
   bottom: 0; }
 
-.ce-event-details table.ce-logistics {
-  margin-bottom: 12px; }
-  .ce-event-details table.ce-logistics td {
-    padding: 6px; }
-  .ce-event-details table.ce-logistics tr td:first-child {
-    text-align: right; }
-  .ce-event-details table.ce-logistics tr td:nth-child(2) {
-    font-weight: bold; }
+.ce-event-logistics {
+  font-weight: 700;
+  color: #888888; }
+  .ce-event-logistics tr td {
+    padding: 0 6px;
+    border-right: 1px solid #dddddd; }
+    .ce-event-logistics tr td:first-child {
+      padding-left: 0; }
+    .ce-event-logistics tr td:last-child {
+      border-right: 0px solid #dddddd; }
+
+.ce-event-header .ce-event-logistics {
+  color: #f25405; }
+  .ce-event-header .ce-event-logistics tr td {
+    padding: 0 6px;
+    border-right: 1px solid #f25405; }
+    .ce-event-header .ce-event-logistics tr td:last-child {
+      border-right: 0px solid #dddddd; }
 
 .ce-contact-list {
   list-style: none;
@@ -133,3 +153,24 @@ footer {
 .active {
   border-bottom: 4px solid #f25405;
   color: #f25405 !important; }
+
+.ce-event-header {
+  margin-bottom: 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  background-color: #eeeeee; }
+
+.ce-event-date-posted {
+  color: #555555;
+  font-style: italic;
+  background-color: #eeeeee;
+  padding: 4px;
+  float: right; }
+
+.ce-event-description {
+  font-size: 18px;
+  font-family: "Arvo", sans-serif; }
+
+.ce-wrapper {
+  min-height: 100%;
+  position: relative; }
