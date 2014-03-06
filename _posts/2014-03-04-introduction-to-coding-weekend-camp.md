@@ -11,7 +11,7 @@ excerpt: An introduction to coding with Python and HTML/CSS, for those who are c
 This is a weekend introduction to coding course tailored for students who are interested in coding but have yet to venture into it. We'll be doing sessions on general coding concepts, Python, and HTML/CSS to give you a little taste of each.
 
 ##When and where is this happening?
-March 29th-30th (Saturday & Sunday) at Wisma Jobstreet in Kuala Lumpur.
+March 29th-30th (Saturday & Sunday) at Wisma Jobstreet in Kuala Lumpur. This camp will run from 9am to 5pm on both days, with hour-long lunch breaks.
 
 
 ##Is this for me?
@@ -22,13 +22,13 @@ We are limiting this session to 30 people only, but we will have waiting lists, 
 We do ask for a RM20 registration fee. At the end of the class, you may decide to have it refunded to you, or not.
 
 ##How do I sign up?
-Just fill out this online form here and we will email you with a confirmation of your seat in this course! We will notify you and put you on the waiting list if all seats have been taken.
+Just fill out this online form (<strong>soon to come, please check back next week</strong>) and we will email you with a confirmation of your seat in this course! We will notify you and put you on the waiting list if all seats have been taken.
 
 ##I got a seat! What now?
-Hang in tight till March the 29th! Do not hestitate to message us on Facebook at Code Equality or email us at codeequality@gmail.com for further questions.
+Hang in tight till March the 29th! Do not hestitate to message us on Facebook at Code Equality or email us at <a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a> for further questions.
 
 ##Who are you guys? And why are you doing this?
 To find out more about Code Equality, check out our About section.
 
 ##I have more questions!
-Just send them to us via Facebook or via email at codeequality@gmail.com and we'll get back to you ASAP!
+Just send them to us via Facebook or via email at <a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a> and we'll get back to you ASAP!
