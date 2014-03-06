@@ -174,3 +174,9 @@ footer {
 .ce-wrapper {
   min-height: 100%;
   position: relative; }
+
+.ce-event-details {
+  padding-bottom: 60px; }
+  .ce-event-details h2 {
+    color: #777777;
+    margin-top: 36px; }

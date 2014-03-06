@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Introduction to Coding: A Weekend Camp
+title: Introduction to Coding- A Weekend Camp
 type: Course
 eventDate: 29-30th March '14, 9pm-5pm
 eventVenue: Wisma Jobstreet, Lorong Medan Tuanku 1, Kuala Lumpur 
@@ -15,7 +15,6 @@ This is a weekend introduction to coding course tailored for students who are in
 ##When and where is this happening?
 March 29th-30th (Saturday & Sunday) at Wisma Jobstreet in Kuala Lumpur.
 
-##What is coding?
 
 ##Is this for me?
 Yes! If you're interested in learning how to code, this is for you! We welcome everyone from all walks of life, but do note that this session is targeted to students who have no coding experience as we will be beginning from ground zero of programming.
@@ -31,7 +30,7 @@ Just fill out this online form here and we will email you with a confirmation of
 Hang in tight till March the 29th! Do not hestitate to message us on Facebook at Code Equality or email us at codeequality@gmail.com for further questions.
 
 ##Who are you guys? And why are you doing this?
-To find out more about Code Equality, check out our [About section][http://codeequality.org#about]!
+To find out more about Code Equality, check out our About section.
 
 ##I have more questions!
 Just send them to us via Facebook or via email at codeequality@gmail.com and we'll get back to you ASAP!
