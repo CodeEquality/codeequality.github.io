@@ -1,14 +1,12 @@
 ---
 layout: event
-title: Introduction to Coding- A Weekend Camp
+title: A Weekend Introduction to Coding
 type: Course
 eventDate: 29-30th March '14, 9pm-5pm
 eventVenue: Wisma Jobstreet, Lorong Medan Tuanku 1, Kuala Lumpur 
-eventImage: /img/events/02.jpg
+eventImage: /img/events/00.png
 excerpt: An introduction to coding with Python and HTML/CSS, for those who are curious
 ---
-#Introduction to Coding: A Weekend Camp
-
 ##What is this?
 This is a weekend introduction to coding course tailored for students who are interested in coding but have yet to venture into it. We'll be doing sessions on general coding concepts, Python, and HTML/CSS to give you a little taste of each.
 
