@@ -29,13 +29,12 @@ We are limiting this session to 30 people only, but we will have waiting lists, 
 It's free! However, we do require a RM20 fee for registration, which will be refunded once you have completed the course. Please do not hestitate to contact us if you would require a waiver for this fee.
 
 ##How do I sign up?
-Just fill out this <a href="https://docs.google.com/forms/d/1m7oZ9kchVh1HXeWRJH680J2n-v6HHebSmMmKDnh0mtU/viewform" target="_blank"> online form here</a> and deposit the refundable RM20 registration fee to the following account: 
-<br/>
+Just fill out this  <a href="https://docs.google.com/forms/d/1m7oZ9kchVh1HXeWRJH680J2n-v6HHebSmMmKDnh0mtU/viewform" target="_blank"> online form here</a> and deposit the refundable RM20 registration fee to the following account: 
 <br/>
 <div class="well">
 Organization: Education Talent Academy Sdn. Bhd.<br/>
 Bank: CIMB Islamic Bank<br/>
-A/C No : 0407-0000417-10-4<br/>
+A/C No : 0407 0000417 10 4<br/>
 </div>
 <strong>Please note that your seat will not be guaranteed until you have deposited the registration fee.</strong>
 
