@@ -23,7 +23,8 @@ Yes! If you're interested in learning how to code, this is for you! We welcome e
 
 We are limiting this session to 30 people only, but we will have waiting lists, so don't hesitate to put your name in! 
 
-We do ask for a RM20 registration fee. At the end of the class, you may decide to have it refunded to you, or not.
+##How much does this event cost?
+It's free! However, we do require a RM20 fee for registration, which will be refunded once you have completed the course.
 
 ##How do I sign up?
 Just fill out this online form (<strong>soon to come, please check back next week</strong>) and we will email you with a confirmation of your seat in this course! We will notify you and put you on the waiting list if all seats have been taken.
