@@ -128,6 +128,8 @@ footer {
   .ce-event-header .ce-event-logistics tr td {
     padding: 0 6px;
     border-right: 1px solid #f25405; }
+    .ce-event-header .ce-event-logistics tr td:first-child {
+      padding-left: 0; }
     .ce-event-header .ce-event-logistics tr td:last-child {
       border-right: 0px solid #dddddd; }
 
@@ -199,8 +201,7 @@ footer {
   .ce-event-details-table tr td {
     padding: 12px; }
   .ce-event-details-table tr td:first-child {
-    font-weight: bold;
-    color: #f25405; }
+    font-weight: bold; }
 
 .large {
   font-size: 1.5em; }

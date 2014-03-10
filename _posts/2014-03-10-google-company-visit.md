@@ -4,7 +4,7 @@ title: Google Malaysia Company Visit
 type: Visit
 eventDate: 1st April '14, 9:45am - 11:30am
 eventVenue: Google Malaysia, Jalan Stesen Sentral 5, KL Sentral
-eventImage: /img/events/company-visit-google.png
+eventImage: /img/events/company-visit-google-0.png
 eventThumb: /img/events/company-visit-google.png
 excerpt: First in our series of company visits -- Google Malaysia.
 ---
@@ -55,7 +55,7 @@ __Note:__ If you are a teacher/instructor, please have your students fill in thi
 ###Step 2 - by March 23rd
 If you have been selected We will email you with a confirmation by __March 23rd__. If you have been selected, you must __confirm your attendance with us by 11:29pm March 24th__. If you do not RSVP by this deadline, we will give your spot to another student on the waitlist.
 
-We will confirm seats on a first-come-first-served basis with priority to secondary school and pre-university students. If you did not receive a confirmation, do not lose hope -- we will put you on a waitlist and notify you if another participant gives up their seat. 
+We will confirm seats on a first-come-first-served basis with priority to secondary school and pre-university students. If you do not receive a confirmation, do not lose hope -- we will put you on a waitlist and notify you if another participant gives up their seat. 
 
 ###Step 3 - be there on April 1st!
 Meet us at the Google Malaysia office. Be there or be square!
