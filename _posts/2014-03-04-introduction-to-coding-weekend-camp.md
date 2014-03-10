@@ -26,23 +26,32 @@ Yes! If you're interested in learning how to code, this is for you! We welcome e
 We are limiting this session to 30 people only, but we will have waiting lists, so don't hesitate to put your name in! 
 
 ##How much does this event cost?
-It's free! However, we do require a RM20 fee for registration, which will be refunded once you have completed the course. Please do not hestitate to contact us if you would require a waiver for this fee.
+It's free! However, we do require a RM20 fee for registration, <strong>which will be refunded once you have completed the course</strong>. Please do not hestitate to contact us if you would require a waiver for this fee. 
+
+We are only collecting this fee for the purposes of seat reservation. If you cannot attend this course, please inform us <strong>by March 27th, 11:59pm</strong> for a full refund.
 
 ##How do I sign up?
-Just fill out this  <a href="https://docs.google.com/forms/d/1m7oZ9kchVh1HXeWRJH680J2n-v6HHebSmMmKDnh0mtU/viewform" target="_blank"> online form here</a> and deposit the refundable RM20 registration fee to the following account
+###Step 1
+Fill in this  <a href="https://docs.google.com/forms/d/1m7oZ9kchVh1HXeWRJH680J2n-v6HHebSmMmKDnh0mtU/viewform" target="_blank">Google Form </a> to register.
+
+###Step 2
+There is a RM20 registration fee. Once you have registered, we will email you the bank details. <strong>Please send us a screenshot of your bank transfer as we need to verify your transaction with our bank statement. </strong>
+
+Please note that your seat will not be guaranteed until you have deposited the registration fee.
+
+###Step 3
+Your seat is confirmed once we have received the deposit and we will email you with the confirmation.
 
 <div class="well">
-	<ul>
-		<li>Organization:  Education Talent Academy Sdn. Bhd.</li>
-		<li>Bank: CIMB Islamic Bank</li>
-		<li>A/C No: 0407-0000417-10-4</li>
-	</ul>
+<strong>Note:</strong>
+<p>
+The RM20 registration fee is refundable upon completion of both days of the bootcamp. If you have secured a seat (paid RM20 and received confirmation from us) but cannot attend, please let us know at least 2 days in advance.
+</p>
+
+<p>
+If you do not inform us at least 2 days in advance, your registration fee will be forfeited. We aim to have our bootcamp accessible to all, but need to charge a deposit to avoid students from signing up and not show up for the bootcamp.
+</p>
 </div>
-
-<strong>Please note that your seat will not be guaranteed until you have deposited the registration fee.</strong>
-
-We will email you with a confirmation of your seat in this course! We will notify you and put you on the waiting list if all seats have been taken.
-
 
 ##I got a seat! What now?
 Hang in tight till March the 29th! Do not hestitate to message us on Facebook at Code Equality or email us at <a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a> for further questions.
