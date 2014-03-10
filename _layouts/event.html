@@ -30,14 +30,15 @@ layout: default
 					<p>
 						{{content}}
 					</p>
+					<div class="ce-event-details-footer">
+						<p>
+						<span class="ce-event-date-posted">
+							Posted {{page.date | date_to_string}}
+						</span>
+						</p>
 
-					<p>
-					<span class="ce-event-date-posted">
-						Posted {{page.date | date_to_string}}
-					</span>
-					</p>
-
-					<p><a href="/index.html#events"> &laquo; Back to events</a>
+						<p><a href="/index.html#events"> &laquo; Back to events</a></p>
+					</div>
 				</div>
 			</div>
 		</section>

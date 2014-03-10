@@ -6,6 +6,7 @@ type: Talk
 eventDate: 6 Feb '14, 4pm-5pm
 eventVenue: Audi 7, Sunway College
 eventImage: /img/events/01.jpg
+eventThumb: /img/events/01.jpg
 excerpt: Hear from Carolyn Au, a software engineer at Google about working in the Silicon Valley, learning programming and pursuing Computer Science.
 ---
 <p>

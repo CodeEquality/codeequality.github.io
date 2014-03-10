@@ -191,6 +191,16 @@ footer {
   .ce-event-details h2 {
     color: #777777;
     margin-top: 36px; }
+  .ce-event-details .ce-event-details-footer {
+    margin-top: 60px; }
+
+.ce-event-details-table {
+  margin: 24px auto; }
+  .ce-event-details-table tr td {
+    padding: 12px; }
+  .ce-event-details-table tr td:first-child {
+    font-weight: bold;
+    color: #f25405; }
 
 .large {
   font-size: 1.5em; }
