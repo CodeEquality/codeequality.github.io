@@ -22,7 +22,7 @@ Please note that this is a 2-day event and we will require your commitment and a
 
 
 ##Is this for me?
-Yes! If you're interested in learning how to code, this is for you! We welcome everyone from all walks of life, but do note that this session is designed for students of ages 16 and above who have no previous coding experience as we will be starting from the very basics.
+Yes! If you're interested in learning how to code, this is for you! We welcome everyone from all walks of life, but do note that this session is designed for students of ages 16 and above who have no previous coding experience as we will be starting from the very basics. You will also need to bring your own laptop for the weekend.
 
 We are limiting this session to 30 people only, but we will have a waiting list, so don't hesitate to put your name in! 
 
