@@ -5,7 +5,7 @@ type: Course
 eventDate: 29-30th March '14, 9pm-5pm
 eventVenue: Wisma Jobstreet, Lorong Medan Tuanku 1, Kuala Lumpur 
 eventImage: /img/events/02.png
-excerpt: An introduction to coding with Python and HTML/CSS, for those who are curious
+excerpt: An introduction to coding with Python and HTML/CSS. For those who are curious.
 ---
 
 <a class="large" target="_blank" href="/img/events/intro-to-coding-2014.png">Event poster</a>
