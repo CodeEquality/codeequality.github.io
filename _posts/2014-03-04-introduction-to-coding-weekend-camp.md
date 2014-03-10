@@ -23,12 +23,12 @@ Please note that this is a 2-day event and we will require your commitment and a
 ##Is this for me?
 Yes! If you're interested in learning how to code, this is for you! We welcome everyone from all walks of life, but do note that this session is designed for students of ages 16 and above who have no previous coding experience as we will be starting from the very basics.
 
-We are limiting this session to 30 people only, but we will have waiting lists, so don't hesitate to put your name in! 
+We are limiting this session to 30 people only, but we will have a waiting list, so don't hesitate to put your name in! 
 
 ##How much does this event cost?
 It's free! However, we do require a RM20 fee for registration, <strong>which will be refunded once you have completed the course</strong>.
 
-We are only collecting this fee for the purposes of seat reservation. If you cannot attend this course, please inform us <strong>by March 27th, 11:59pm</strong> for a full refund.
+We are only collecting this fee for the purpose of seat reservations. If you cannot attend this course, please inform us <strong>by March 26th, 11:59pm</strong> for a full refund.
 
 ##How do I sign up?
 ###Step 1
@@ -45,7 +45,7 @@ Your seat is confirmed once we have received the deposit and we will email you w
 <div class="well">
 <strong>Note:</strong>
 <p>
-The RM20 registration fee is refundable upon completion of both days of the bootcamp. If you have secured a seat (paid RM20 and received confirmation from us) but cannot attend, please let us know at least 2 days in advance.
+The RM20 registration fee is refundable upon completion of both days of the bootcamp. If you have secured a seat (paid RM20 and received confirmation from us) but cannot attend, please let us know at least 2 days in advance by March 26th, 11:59am.
 </p>
 
 <p>
