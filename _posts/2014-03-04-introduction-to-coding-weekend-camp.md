@@ -26,7 +26,7 @@ Yes! If you're interested in learning how to code, this is for you! We welcome e
 We are limiting this session to 30 people only, but we will have waiting lists, so don't hesitate to put your name in! 
 
 ##How much does this event cost?
-It's free! However, we do require a RM20 fee for registration, <strong>which will be refunded once you have completed the course</strong>. Please do not hestitate to contact us if you would require a waiver for this fee. 
+It's free! However, we do require a RM20 fee for registration, <strong>which will be refunded once you have completed the course</strong>.
 
 We are only collecting this fee for the purposes of seat reservation. If you cannot attend this course, please inform us <strong>by March 27th, 11:59pm</strong> for a full refund.
 
@@ -60,4 +60,8 @@ Hang in tight till March the 29th! Do not hestitate to message us on Facebook at
 To find out more about Code Equality, check out our <a href="http://codeequality.org/index.html#about">About section</a>. 
 
 ##I have more questions!
-Just send them to us via Facebook or via email at <a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a> and we'll get back to you ASAP!
+Just send them to us via Facebook or via email at <a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a> and we'll get back to you ASAP! You may also contact us at +6 011-1139 6136 for any urgent matters.
+
+__Cheers!__
+
+__The Code Equality team__
