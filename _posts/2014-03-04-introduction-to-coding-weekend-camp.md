@@ -49,7 +49,7 @@ The RM20 registration fee is refundable upon completion of both days of the boot
 </p>
 
 <p>
-If you do not inform us at least 2 days in advance, your registration fee will be forfeited. We aim to have our bootcamp accessible to all, but need to charge a deposit to avoid students from signing up and not show up for the bootcamp.
+If you do not inform us at least 2 days in advance, your registration fee will be forfeited. We aim to have our bootcamp accessible to all, but need to charge a deposit to avoid students from not showing up for the bootcamp.
 </p>
 </div>
 
