@@ -12,6 +12,8 @@ excerpt: First in our series of company visits -- Google Malaysia.
 ##The Visit
 This is the first in the Code Equality series of company visits, and we are kicking off with the local Google Malaysia office! 
 
+We only have 25 seats available, so sign up as soon as possible to grab a spot! 
+
 ##Who is this for?
 This visit is open to all! However, we would like to give priority to secondary school and pre-university students. This is an event for those who are curious about what it's like working in a major tech company and its career opportunities. We hope that it will aspire those who have yet to decide on a major or career path to further explore opportunities in tech.
 
@@ -40,25 +42,27 @@ This visit is open to all! However, we would like to give priority to secondary 
 </table>
 __This event will start at 9:45am sharp. Any latecomers will not be accommodated.__ Please plan to arrive at least 15 minutes before the event starts. You must also be able to stay for the entire event.
 
-All transport to and from the Google Malaysia office should be handled by participants.
+Participants are responsible for their own transport to and from the Google Malaysia office.
 
 ##How can I sign up?
 Here's what you have to do. Please take note of the deadlines!
 
-###Step 1 - by March 21st: 
+###Step 1 - by March 21st
 Fill out this <a href="http://bit.ly/1dHbyzS" target="_blank">Google Form</a> by __11:59pm, March 21st 2014__: 
 
 __Note:__ If you are a teacher/instructor, please have your students fill in this form individually.
 
 ###Step 2 - by March 23rd
-If you have been selected We will email you with a confirmation by __March 23rd__. If you have been selected, you must __confirm your attendance with us by 11:29pm March 24th__. If you do not RSVP by this deadline, we will give your spot to another student in the waitlist.
+If you have been selected We will email you with a confirmation by __March 23rd__. If you have been selected, you must __confirm your attendance with us by 11:29pm March 24th__. If you do not RSVP by this deadline, we will give your spot to another student on the waitlist.
 
-###Step 3
+We will confirm seats on a first-come-first-served basis with priority to secondary school and pre-university students. If you did not receive a confirmation, do not lose hope -- we will put you on a waitlist and notify you if another participant gives up their seat. 
+
+###Step 3 - be there on April 1st!
 Meet us at the Google Malaysia office. Be there or be square!
 
 __If you have confirmed but cannot attend for any reason, please let us know by 11:59pm March 25th__ as we need to provide the name list to Google Malaysia in advance. 
 
-No worries if you can't make it, there will be more company visits to come!
+No worries if you can't make it, there will be other company visits to come!
 
 
 ##More questions?
