@@ -37,10 +37,10 @@ Fill in this  <a href="https://docs.google.com/forms/d/1m7oZ9kchVh1HXeWRJH680J2n
 ###Step 2
 There is a RM20 registration fee. Once you have registered, we will email you the bank details. <strong>Please send us a screenshot of your bank transfer as we need to verify your transaction with our bank statement. </strong>
 
-Please note that your seat will not be guaranteed until you have deposited the registration fee.
-
 ###Step 3
 Your seat is confirmed once we have received the deposit and we will email you with the confirmation.
+
+<strong>Please note that your seat is not be guaranteed until you have received the confirmation from us.</strong>
 
 <div class="well">
 <strong>Note:</strong>
