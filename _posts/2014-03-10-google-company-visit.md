@@ -1,0 +1,64 @@
+---
+layout: event
+title: Google Malaysia Company Visit
+type: Visit
+eventDate: 1st April '14, 10:00am - 11:30am
+eventVenue: Google Malaysia, Jalan Stesen Sentral 5, KL Sentral
+eventImage: /img/events/company-visit-google.png
+excerpt: First in our series of company visits -- Google Malaysia.
+---
+
+##The Visit
+This is the first in the Code Equality series of company visits, and we are kicking off with the local Google Malaysia office! 
+
+##Who is this for?
+This visit is open to all! However, we would like to give priority to secondary school and pre-university students. This is an opportunity for those who are curious about what it's like working in a top tech company. We hope that it will aspire those who have yet to decide on a career path to further explore opportunities in tech.
+
+##Logistics
+
+<table>
+	<tr>
+		<td> Date  </td>
+	 	<td> 1st April, 2014 (Thursday) </td>
+	</tr>
+
+	<tr>
+		<td>Time</td>
+		<td>9:45am - 11:30am </td>
+	</tr>
+
+	<tr>
+		<td>Venue</td>
+		<td> 
+			Google Malaysia, Level 20,
+			Quill 7, No. 9 Jalan Stesen Sentral 5
+			KL Sentral,
+			50470 Kuala Lumpur, Malaysia
+		</td>
+	</tr>
+</table>
+__This event will start at 10:00am sharp. Any latecomers will not be accommodated.__ Please plan to arrive at least 15 minutes before the event starts. You must also be able to stay for the whole event.
+
+All transport should be handled by participants. We will not be able to provide any transportation. However, here are several public transport options\:
+
+
+##Where can I sign up?
+Here's what you have to do. Please take note of the deadlines!
+
+###Step 1: 
+Fill out this Google Form by __11:59pm, March 21st 2014__.
+
+###Step 2
+If you have been selected We will email you with a confirmation by __March 23rd__. If you have been selected, you must confirm your attendance with us by __11:29pm March 24th__. If you do not RSVP by this deadline, we will give your spot to another student in the waitlist.
+
+###Step 3
+Meet us at the Google Malaysia office. Be there or be square!
+
+__If you have confirmed your but realized that you cannot attend, please let us know by 11:59pm March 25th__ as we need to provide the name list to Google Malaysia in advance. 
+
+No worries if you can't make it, there will be more company visits to come!
+
+
+##More questions?
+Get in touch with us at [CodeEquality@gmail.org](mailto:CodeEquality@gmail.org)
+

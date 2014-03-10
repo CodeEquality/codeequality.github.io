@@ -61,13 +61,20 @@ footer
   display: block
   overflow: hidden
   padding: 15px 15px 15px 0
+  display: table
   .ce-thumbnail-image
     position: relative
     overflow: hidden  
     width: $thumb-size
     height: $thumb-size
-    img 
-      width: $thumb-size
+    // border: 1px solid #ddd
+  .ce-thumbnail-helper
+    display: table-cell
+    height: $thumb-size
+    vertical-align: middle
+  img 
+    vertical-align: middle
+    max-width: $thumb-size
 
 .ce-section
   padding-top: 54px
@@ -112,6 +119,7 @@ footer
   .ce-event, .ce-thumbnail
     display: table-cell
     vertical-align: top
+      
   table.ce-event-logistics
     font-weight: 700
     tr td 
