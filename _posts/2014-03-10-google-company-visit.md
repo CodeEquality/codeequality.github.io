@@ -56,7 +56,7 @@ If you have been selected We will email you with a confirmation by __March 23rd_
 ###Step 3
 Meet us at the Google Malaysia office. Be there or be square!
 
-__If you have confirmed your but realized that you cannot attend, please let us know by 11:59pm March 25th__ as we need to provide the name list to Google Malaysia in advance. 
+__If you have confirmed but cannot attend for any reason, please let us know by 11:59pm March 25th__ as we need to provide the name list to Google Malaysia in advance. 
 
 No worries if you can't make it, there will be more company visits to come!
 
