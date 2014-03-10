@@ -22,7 +22,7 @@ This visit is open to all. However, we would like to give priority to secondary 
 <table class="ce-event-details-table">
 	<tr>
 		<td> Date  </td>
-	 	<td> 1st April, 2014 (Thursday) </td>
+	 	<td> 1st April, 2014 (Tuesday) </td>
 	</tr>
 
 	<tr>
