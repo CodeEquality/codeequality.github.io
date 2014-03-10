@@ -2,7 +2,7 @@
 layout: event
 title: Google Malaysia Company Visit
 type: Visit
-eventDate: 1st April '14, 10:00am - 11:30am
+eventDate: 1st April '14, 9:45am - 11:30am
 eventVenue: Google Malaysia, Jalan Stesen Sentral 5, KL Sentral
 eventImage: /img/events/company-visit-google.png
 eventThumb: /img/events/company-visit-google.png
@@ -38,7 +38,7 @@ This visit is open to all! However, we would like to give priority to secondary 
 		</td>
 	</tr>
 </table>
-__This event will start at 10:00am sharp. Any latecomers will not be accommodated.__ Please plan to arrive at least 15 minutes before the event starts. You must also be able to stay for the entire event.
+__This event will start at 9:45am sharp. Any latecomers will not be accommodated.__ Please plan to arrive at least 15 minutes before the event starts. You must also be able to stay for the entire event.
 
 All transport to and from the Google Malaysia office should be handled by participants.
 
