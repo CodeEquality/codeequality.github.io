@@ -13,7 +13,7 @@ excerpt: First in our series of company visits -- Google Malaysia.
 This is the first in the Code Equality series of company visits, and we are kicking off with the local Google Malaysia office! 
 
 ##Who is this for?
-This visit is open to all! However, we would like to give priority to secondary school and pre-university students. This is an opportunity for those who are curious about what it's like working in a top tech company. We hope that it will aspire those who have yet to decide on a career path to further explore opportunities in tech.
+This visit is open to all! However, we would like to give priority to secondary school and pre-university students. This is an event for those who are curious about what it's like working in a major tech company and its career opportunities. We hope that it will aspire those who have yet to decide on a major or career path to further explore opportunities in tech.
 
 ##Logistics
 
@@ -38,9 +38,9 @@ This visit is open to all! However, we would like to give priority to secondary 
 		</td>
 	</tr>
 </table>
-__This event will start at 10:00am sharp. Any latecomers will not be accommodated.__ Please plan to arrive at least 15 minutes before the event starts. You must also be able to stay for the whole event.
+__This event will start at 10:00am sharp. Any latecomers will not be accommodated.__ Please plan to arrive at least 15 minutes before the event starts. You must also be able to stay for the entire event.
 
-All transport should be handled by participants.
+All transport to and from the Google Malaysia office should be handled by participants.
 
 ##How can I sign up?
 Here's what you have to do. Please take note of the deadlines!
