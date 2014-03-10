@@ -64,3 +64,4 @@ No worries if you can't make it, there will be more company visits to come!
 ##More questions?
 Get in touch with us at [CodeEquality@gmail.org](mailto:CodeEquality@gmail.org) or find out more about why we do what we do at our [About section](http://codeequality.org#about)
 
+_Google and the Google logo are registered trademarks of Google Inc., used with permission._
