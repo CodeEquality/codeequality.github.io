@@ -15,7 +15,7 @@ This is the first in the Code Equality series of company visits, and we are kick
 We only have 25 seats available, so sign up as soon as possible to grab a spot! 
 
 ##Who is this for?
-This visit is open to all! However, we would like to give priority to secondary school and pre-university students. This is an event for those who are curious about what it's like working in a major tech company and its career opportunities. We hope that it will aspire those who have yet to decide on a major or career path to further explore opportunities in tech.
+This visit is open to all. However, we would like to give priority to secondary school and pre-university students. This is an event for those who are curious about what it's like working in a major tech company and its career opportunities. We hope that it will aspire those who have yet to decide on a major or career path to further explore opportunities in tech.
 
 ##Logistics
 
@@ -66,6 +66,6 @@ No worries if you can't make it, there will be other company visits to come!
 
 
 ##More questions?
-Get in touch with us at [CodeEquality@gmail.org](mailto:CodeEquality@gmail.org) or find out more about why we do what we do at our [About section](http://codeequality.org#about)
+Get in touch with us at [CodeEquality@gmail.org](mailto:CodeEquality@gmail.org) or find out more about why we do what we do at our [About section](http://codeequality.org#about).
 
 _Google and the Google logo are registered trademarks of Google Inc., used with permission._
