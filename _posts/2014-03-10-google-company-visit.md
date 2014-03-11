@@ -4,8 +4,8 @@ title: Google Malaysia Company Visit
 type: Visit
 eventDate: 1st April '14, 9:45am - 11:30am
 eventVenue: Google Malaysia, Jalan Stesen Sentral 5, KL Sentral
-eventImage: /img/events/company-visit-google-0.png
-eventThumb: /img/events/company-visit-google.png
+eventImage: /img/events/company-visit-google-1.png
+eventThumb: /img/events/company-visit-google-1.png
 excerpt: First in our series of company visits -- Google Malaysia.
 ---
 
