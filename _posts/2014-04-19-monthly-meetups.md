@@ -64,4 +64,4 @@ We are planning to make this a regular event, however we’re just trying things
 
 
 ##I wanna be a volunteer tutor!
-Sure! You just need to be familiar with the material and have the passion to help others learn. Fill in this form here [LINK] to sign up.
+Sure! You just need to be familiar with the material and have the passion to help others learn. Fill in this form [here](https://docs.google.com/forms/d/1t-J6mvTl53FVfnM0aapKNgjdFP-KMyqNXmmNp8jxwis/viewform) to sign up.
