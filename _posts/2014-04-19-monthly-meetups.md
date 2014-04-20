@@ -1,7 +1,7 @@
 ---
 
 layout: event
-title: Monthly New Coders' Meetup
+title: New Coders' Meetup
 type: Meetup
 eventDate: 26 April '14, 10am-12noon
 eventVenue: Wisma Jobstreet, Lorong Medan Tuanku 1, Kuala Lumpur
