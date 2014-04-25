@@ -29,7 +29,7 @@ We’ll have helpful tutors around to help you out too!
 	<tr>
 		<td>Venue</td>
 		<td>
-			Lorong Medan Tuanku 1, Medan Tuanku, 50300 Kuala Lumpur.<br/>
+			Wisma Jobstreet, Lorong Medan Tuanku 1, Medan Tuanku, 50300 Kuala Lumpur.<br/>
 			(<a href="https://plus.google.com/114679260039178182111/about?hl=en">Location</a>)
 		</td>
 	</tr>
