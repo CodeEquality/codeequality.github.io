@@ -203,6 +203,13 @@ footer {
   .ce-event-details-table tr td:first-child {
     font-weight: bold; }
 
+.ce-event-inline-img {
+  float: left;
+  margin-right: 12px;
+  margin-bottom: 12px;
+  clear: right;
+  max-width: 200px; }
+
 .large {
   font-size: 1.5em; }
 
@@ -214,3 +221,6 @@ footer {
   padding-top: 24px;
   padding-bottom: 24px;
   background-color: #eeeeee; }
+
+h2 {
+  clear: both; }
