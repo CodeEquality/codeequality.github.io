@@ -35,7 +35,7 @@ This is an introductory hands-on course for students curious about web developme
 </table>
 
 ##How do I sign up?
-Head on over to the event sign up page over here: <strong>Coming soon</strong>. This is a __free for all__ event.
+Head on over to the event sign up page __[over here](http://www.eventbrite.com/e/intro-to-javascript-tickets-11566476643?utm_campaign=new_eventv2&utm_medium=email&utm_source=eb_email&utm_term=eventurl_text)__. This is a __free for all__ event.
 
 ##What will we be doing?
 We'll be building a simple "to-do" list like the one below. This will introduce you to the basics of HTML/CSS and Javascript.

@@ -179,10 +179,15 @@ footer {
   font-size: 18px;
   font-family: "Arvo", sans-serif; }
 
-.ce-event-header-image {
+.ce-event-header-image-container {
+  max-width: 220px;
+  max-height: 220px;
+  overflow: hidden;
   float: left;
-  max-width: 250px;
   margin-right: 24px; }
+
+.ce-event-header-image {
+  max-width: 220px; }
 
 .ce-wrapper {
   min-height: 100%;
