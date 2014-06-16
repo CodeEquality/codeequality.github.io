@@ -10,6 +10,7 @@ excerpt: An introduction to coding with Python and HTML/CSS. For those who are c
 ---
 
 <a class="large" target="_blank" href="/img/events/intro-to-coding-2014.png">Event poster</a>
+
 ##What is this?
 This is a weekend introduction to coding course tailored for students who are interested in coding but have yet to venture into it. We'll be doing sessions on general coding concepts, <a href="http://python.org">Python</a>, a high-level programming language ideal for beginners, and HTML/CSS as an introduction to programming and web development.
 

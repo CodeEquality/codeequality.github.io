@@ -13,6 +13,7 @@ excerpt: An introductory hands-on course for students curious about web developm
 
 <a class="large" target="_blank" href="/img/events/intro-js/intro-js-poster.png">Event poster</a>
 
+
 ##What is this?
 This is an introductory hands-on course for students curious about web development with HTML/CSS and Javascript.
 

@@ -16,7 +16,7 @@ excerpt: An introductory hands-on course for those who want to build their own w
 ##What is this about?
 An introductory hands-on course for those who want to learn how to build their own websites with HTML/CSS.
 
-##What is HTML/CSS really?
+##I'd like to build a website! But what is HTML/CSS?
 
 
 ##When and where is this happening?
@@ -37,10 +37,13 @@ An introductory hands-on course for those who want to learn how to build their o
 	</tr>
 </table>
 
+Please be on time. We suggest that you plan to arrive at least 15 minutes before the event starts as it may take you time to locate the venue. __We will not allow late entry for latecomers__.
+
 ##How do I sign up?
 Head on over to the event sign up page __[over here](http://www.eventbrite.com/e/intro-to-javascript-tickets-11566476643?utm_campaign=new_eventv2&utm_medium=email&utm_source=eb_email&utm_term=eventurl_text)__. 
 
-The fee for this event is RM 20. Lunch will be provided for all participants.
+The fee for this event is RM 20. This fee will be used to provide lunch for all participants. Please let us know in advance if you have any dietary restrictions.
+
 
 ##What will we be doing?
 We will be building a static website from scratch!
@@ -49,6 +52,12 @@ We will be building a static website from scratch!
 Yes! You do not need previous coding or design experience, just bring yourself, a laptop and enthusiasm to learn. This class is suitable for beginners.
 
 We do ask that participants be at least 16 years old of age to join this class.
+
+If you are a parent and think your child would be interested, you may gauge their interest by asking the following questions:
+
+* TODO
+* TODO
+* TODO
 
 ##What do I need to bring?
 You just have to bring your __laptop and charger__ for this class. Any type of laptop or operating system works (Mac, Windows, Linux, etc).
@@ -64,7 +73,7 @@ Our volunteer instructor for this class is __Sher Minn__.
 
 <img src="/img/events/intro-html/sherminn.jpg" width="200px"/>
 
-Sher Minn is a front-end web developer and designer.  
+Sher Minn is a freelance front-end web developer and designer. She enjoys making building websites and making graphics. You can check out some of her work [here](http://behance.net/piratefsh).
 
 ##How do I get there?
 The iTrain building is close to KLCC and within walkable distance from the Ampang Park LRT station.
@@ -72,6 +81,9 @@ If you are coming from Ampang Park LRT, use the the Bank of China/ Intermark exi
  
 ##Who are you guys? And why are you doing this?
 To find out more about Code Equality, check out our <a href="http://codeequality.org/index.html#about">About section</a>. 
+
+##I'm a developer and I'd like to help out
+Sure! We're always on the lookout for tutors to assist students during the class. All of our instructors and tutors are volunteers. Just drop us an email at  <a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a> and we'll get back to you!
 
 ##I have more questions!
 Feel free to contact us at <a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a>. Please give us 24 hours to respond to your enquires. 
