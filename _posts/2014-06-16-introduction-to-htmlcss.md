@@ -20,7 +20,7 @@ __HTML and CSS are the building blocks of every website__.
 
 __HTML__ is used to describe the content of a site. For example, this very paragraph is described in HTML. HTML stands for HyperText Markup Language.
 
-__CSS__ is used to style websites. All of the color and fonts that you see on this site is described in CSS. CSS stands for Cascading Style Sheets. 
+__CSS__ is used to style websites. All of the color and fonts (<span style="color:#f25405; font-weight:bold; font-family:Arvo, serif">like this sentence!</span>) that you see on this site is described in CSS. CSS stands for Cascading Style Sheets. 
 
 
 ##When and where is this happening?
