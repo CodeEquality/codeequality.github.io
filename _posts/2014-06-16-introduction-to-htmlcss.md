@@ -70,7 +70,7 @@ We'll be building a simple homepage. Here is an example:
 ##What would I need for this class?
 
 ###For the class
-You will need to bring your __laptop__ and __charger__ for this class. Any type of laptop or operating system (Mac, Windows, Linux, etc) can be used for this class. Please make your own arrangements to borrow a laptop for this class if you do not own one.
+You will need to bring your __laptop__, __charger__ and __an extension plug__ (if you can) for this class. Any type of laptop or operating system (Mac, Windows, Linux, etc) can be used for this class. Please make your own arrangements to borrow a laptop for this class if you do not own one.
 
 ###Before the class
 * Install a browser. [Chrome](https://www.google.com/intl/en/chrome/browser/) or [Firefox](http://www.mozilla.org/en-US/firefox/new/) are preferable.
