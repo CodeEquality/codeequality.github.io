@@ -52,9 +52,9 @@ We do ask that participants be at least 16 years old of age to join this class.
 
 
 ##How do I sign up?
-Head on over to the event sign up page __[over here](http://www.eventbrite.com/e/intro-to-javascript-tickets-11566476643?utm_campaign=new_eventv2&utm_medium=email&utm_source=eb_email&utm_term=eventurl_text)__. 
+Please check back for registration details. They will be up shortly.
 
-The fee for this event is RM 20. This fee will be used to provide lunch for all participants. Please let us know in advance if you have any dietary restrictions.
+<!-- The fee for this event is RM 20. This fee will be used to provide lunch for all participants. Please let us know in advance if you have any dietary restrictions. -->
 
 
 ##What will we be doing?
