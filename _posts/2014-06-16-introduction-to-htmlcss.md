@@ -16,7 +16,9 @@ excerpt: An introductory hands-on course for those who want to learn how to buil
 ##What is this?
 {{page.excerpt}} 
 
-HTML and CSS are the building blocks of every website. __HTML__ is used to describe the content of a site. For example, this very paragraph is described in HTML. HTML stands for HyperText Markup Language.
+__HTML and CSS are the building blocks of every website__. 
+
+__HTML__ is used to describe the content of a site. For example, this very paragraph is described in HTML. HTML stands for HyperText Markup Language.
 
 __CSS__ is used to style websites. All of the color and fonts that you see on this site is described in CSS. CSS stands for Cascading Style Sheets. 
 
@@ -66,7 +68,7 @@ We'll be building a simple homepage. Here is an example:
 ##What do I need for this?
 
 ###For the class
-You will need to bring your __laptop__ and __charger__ for this class. Any type of laptop or operating system (Mac, Windows, Linux, etc) can be used for this class.
+You will need to bring your __laptop__ and __charger__ for this class. Any type of laptop or operating system (Mac, Windows, Linux, etc) can be used for this class. Please make your own arrangements to borrow a laptop for this class if you do not own one.
 
 ###Before the class
 * Install a browser. [Chrome](https://www.google.com/intl/en/chrome/browser/) or [Firefox](http://www.mozilla.org/en-US/firefox/new/) are preferable.
