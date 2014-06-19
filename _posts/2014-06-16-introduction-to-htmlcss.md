@@ -7,14 +7,14 @@ eventDate: 12 July '14, 9am-1pm
 eventVenue: iTrain Malaysia, E-7-1, Block E, Megan Avenue 1
 eventImage: /img/events/00.png
 eventThumb: /img/events/00.png
-excerpt: An introductory hands-on course for those who want to build their own websites with HTML/CSS.
+excerpt: An introductory hands-on course for those who want to learn how to build their own websites with HTML/CSS.
 
 ---
 
 <a class="large" target="_blank" href="/img/events/intro-js/intro-js-poster.png">Event poster</a>
 
 ##What is this about?
-An introductory hands-on course for those who want to learn how to build their own websites with HTML/CSS.
+{{page.excerpt}}
 
 ##I'd like to build a website! But what is HTML/CSS?
 
