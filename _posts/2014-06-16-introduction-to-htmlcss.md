@@ -41,14 +41,16 @@ __CSS__ is used to style websites. All of the color and fonts that you see on th
 	</tr>
 </table>
 
-Please be on time. We suggest that you plan to arrive at least 15 minutes before the event starts as it may take you time to locate the venue. __We will not allow late entry for latecomers__.
+Please be on time. We suggest that you plan to arrive at least 15 minutes before the event starts as it may take you time to locate the venue. 
+
+__We will not allow entry for latecomers__.
 
 ##Is this for me?
 Yes! You do not need previous coding or design experience, just bring yourself, a laptop and enthusiasm to learn. This class is suitable for beginners.
 
 We do ask that participants be at least 16 years old of age to join this class. 
 
-<em>If you are a parent and would like to sign up for a younger child, please get in touch with us to ensure that the pace of the class would be suitable for them.</em>
+__If you are a parent and would like to sign up for a younger child, please get in touch with us to ensure that the pace of the class would be suitable for them.__
 
 
 ##How do I sign up?
@@ -95,7 +97,7 @@ The venue is easily accessible via LRT or Monorail. The nearest stations are
 ##Who is Code Equality? 
 To find out more about us, check out our <a href="http://codeequality.org/index.html#about">About section</a>. 
 
-##I'm a developer and I'd like to help out
+##I'd like to help out!
 Sure! We're always on the lookout for tutors to assist students during the class. All of our instructors and tutors are volunteers. Just drop us an email at  <a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a> and we'll get back to you!
 
 ##I have more questions!
