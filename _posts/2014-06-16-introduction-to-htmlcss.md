@@ -67,7 +67,7 @@ We'll be building a simple homepage. Here is an example:
 <iframe class="ce-event-teaser-iframe" src="http://mcopages.com/sherminn/"></iframe>
 
 
-##What do I need for this?
+##What would I need for this class?
 
 ###For the class
 You will need to bring your __laptop__ and __charger__ for this class. Any type of laptop or operating system (Mac, Windows, Linux, etc) can be used for this class. Please make your own arrangements to borrow a laptop for this class if you do not own one.
