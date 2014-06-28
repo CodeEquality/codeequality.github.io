@@ -3,7 +3,7 @@
 layout: event
 title: An Introduction to HTML and CSS
 type: Course
-eventDate: 12 July '14, 9am-1pm
+eventDate: TBA, 9am-1pm
 eventVenue:  Wisma Jobstreet, Lorong Medan Tuanku 1, Kuala Lumpur 
 eventImage: /img/events/00.png
 eventThumb: /img/events/00.png
@@ -26,7 +26,7 @@ __CSS__ is used to style websites. All of the color and fonts (<span style="colo
 ##When and where is this happening?
 <table class="ce-event-details-table">
 	<tr>
-		<td>Date</td><td>12th July, 2014 (Saturday)</td>
+		<td>Date</td><td>TBA</td>
 	</tr>
 
 	<tr>
