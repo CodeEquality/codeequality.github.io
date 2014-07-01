@@ -47,7 +47,7 @@ Together, they can be used to build beautiful
 Please be on time. We suggest that you plan to arrive at least 15 minutes before the event starts as it may take you time to locate the venue. For security reasons, we will have to tag you into the building. __As such, we cannot allow entry for latecomers__.
 
 ##Is this for me?
-Yes! You do not need previous coding or design experience, just bring yourself, a laptop and enthusiasm to learn. This class is suitable for beginners and would be ideal for secondary school and pre-university students.
+Yes! You do not need previous coding or design experience, just bring yourself, a laptop and enthusiasm to learn. This class is suitable for beginners and would be ideal for __secondary school and pre-university students__.
 
 We do ask that participants be at least 13 years old of age to join this class. 
 
