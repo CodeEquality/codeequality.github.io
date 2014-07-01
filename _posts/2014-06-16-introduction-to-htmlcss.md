@@ -19,9 +19,11 @@ excerpt: An introductory hands-on course for those who want to learn how to buil
 
 __HTML and CSS are the building blocks of every website__. 
 
-__HTML__ is used to describe the content of a site. For example, this very paragraph is described in HTML. __CSS__ is used to style websites. All of the color and fonts (<span style="color:#f25405; font-weight:bold; font-family:Arvo, serif">like this sentence!</span>) that you see on this site is described in CSS. 
+__HTML__ is used to describe the content of a site. For example, this very paragraph is described in HTML. 
 
-Together, they can be used to build beautiful 
+__CSS__ is used to style websites. All of the color and fonts, <span style="color:#f25405; font-weight:bold; font-family:Arvo, serif">like this sentence</span> that you see on this site is described in CSS. 
+
+Together, they can be used to build functional and beautiful websites. If you've ever wondered how websites were made and how you can make your own, now is the time to learn!
 
 ##When and where is this happening?
 <table class="ce-event-details-table">
