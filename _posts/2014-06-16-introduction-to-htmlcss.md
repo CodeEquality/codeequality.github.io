@@ -120,7 +120,7 @@ The venue is easily accessible via LRT or Monorail. The nearest stations are
 
  
 ##Who is Code Equality? 
-Code Equality is a non-profit with the purpose of educating Malaysian students about coding and Computer Science. We hold affordable coding classes, company visits and other events open for all.  
+Code Equality is a non-profit with the purpose of educating Malaysian students about coding and Computer Science. We hold affordable coding classes, company visits and other events that are open for all.  
 
 To find out more about us, check out our <a href="http://codeequality.org/index.html#about">About section</a>
 . 
