@@ -6,8 +6,8 @@ type: Course
 eventDate: 20th July '14
 eventTime: 9am - 3pm
 eventVenue:  Wisma Jobstreet, Lorong Medan Tuanku 1, Kuala Lumpur 
-eventImage: /img/events/00.png
-eventThumb: /img/events/00.png
+eventImage: /img/events/intro-html/thumb.png
+eventThumb: /img/events/intro-html/thumb.png
 excerpt: An introductory hands-on course for those who want to learn how to build websites with HTML and CSS.
 
 ---
