@@ -68,7 +68,12 @@ There is a RM15 registration fee. We will email you the bank details with an inv
 Please send us (<a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a>) a screenshot of your bank transfer as we need to verify your transaction with our bank statement. 
 
 ###Step 3
-Your seat is only confirmed once we have received the deposit and we will email you with the confirmation. Please note your seat is not guaranteed until you have received the seat confirmation from us.
+Your seat is only confirmed once we have received the deposit and we will email you with the confirmation. Please note that your seat is not guaranteed until you have received the seat confirmation from us.
+
+<div class="well">
+Note: If you have secured a seat (paid RM15 and received confirmation from us) but cannot attend, please let us know at before July 17, 11:59PM and we can refund you the registration fee. If you do not inform us before July 17, 11:59PM, your registration fee will be forfeited. 
+</div>
+
 
 
 ##What will we be doing?
