@@ -4,7 +4,7 @@ layout: event
 title: An Introduction to HTML and CSS
 type: Course
 eventDate: 20th July '14
-eventTime: 9am - 3pm
+eventTime: 9am - 1pm
 eventVenue:  Wisma Jobstreet, Lorong Medan Tuanku 1, Kuala Lumpur 
 eventImage: /img/events/00.png
 eventThumb: /img/events/00.png
@@ -29,7 +29,7 @@ Together, they can be used to build functional and beautiful websites. If you've
 <table class="ce-event-details-table">
 <tr>
 	<td>Date</td>
-	<td>20th July 2014 (Sunday)</td>
+	<td>{{page.eventDate}} (Sunday)</td>
 </tr>
 
 <tr>
