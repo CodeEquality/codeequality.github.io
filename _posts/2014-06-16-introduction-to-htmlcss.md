@@ -80,10 +80,7 @@ Note: If you have secured a seat (paid RM15 and received confirmation from us) b
 We will be building a static website from scratch! By the end of the class you will have the basics to further venture out in the world of web design and development.
 
 We'll be building a
-<a href="http://mcopages.com/sherminn/" target="_blank">simple homepage</a>
-. Here is an example:
-
-<iframe class="ce-event-teaser-iframe" src="http://mcopages.com/sherminn/"></iframe>
+<a href="http://mcopages.com/sherminn/" target="_blank">simple homepage</a>. We'll cover the basics of HTML/CSS, website design and also on how to upload a website.
 
 ##What would I need for this class?
 
