@@ -1,7 +1,7 @@
 ---
 
 layout: event
-title: An Introduction to HTML and CSS
+title: An Introduction to HTML and CSS Workshop 
 type: Course
 eventDate: 20th July '14
 eventTime: 9am - 1pm
