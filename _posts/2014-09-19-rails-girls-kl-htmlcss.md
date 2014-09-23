@@ -22,7 +22,7 @@ HTML and CSS are the building blocks of every website. HTML is to create the con
 
 The [Rails Girls KL tutorial](http://railsgirls-my.github.io/app/) also uses HTML and CSS. If you want to learn how to style your web application differently and make it prettier, this is the class for you!
 
-** Do apply even if you didn't attend the previous Rails Girls Ruby on Rails workshop!
+** Do apply even if you didn't attend the previous Rails Girls Ruby on Rails workshop! You won't be any disadvantage as this is for beginners with no coding experience.
 
 ##When and where is this happening?
 <table class="ce-event-details-table">
