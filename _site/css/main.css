@@ -32,10 +32,15 @@ footer {
 
 .jumbotron {
   margin-bottom: 0;
-  padding-top: 62px;
+  padding-bottom: 0;
   background-color: #eeeeee;
   font-family: "Arvo", sans-serif;
-  color: #888888; }
+  color: #888888; 
+}
+
+.jumbotron img {
+  max-width: 60%;
+}
 
 .ce-thumbnail {
   display: block;
@@ -56,7 +61,7 @@ footer {
     max-width: 170px; }
 
 .ce-section {
-  padding-top: 54px;
+  padding-top: 20px;
   padding-bottom: 50px;
   border-top: 1px solid #cccccc;
   background-color: white; }
