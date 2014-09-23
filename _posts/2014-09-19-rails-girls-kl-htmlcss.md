@@ -11,18 +11,18 @@ eventAcceptance: 6th October '14'
 eventApplication: http://bit.ly/1Ca9fjk
 eventImage: /img/events/intro-html/rgklhtmlcss.png
 eventThumb: /img/events/intro-html/rgklhtmlcss.png
-excerpt: An intro course for building websites with HTML and CSS. Do apply even if you didn't attend the Rails Girls Ruby on Rails workshop!
+excerpt: An intro course for building websites with HTML and CSS. Do apply even if you didn't attend the previous Rails Girls Ruby on Rails workshop!
 
 ---
 <!-- <a class="large" target="_blank" href="/img/events/intro-js/intro-js-poster.png">Event poster</a>
 -->
 
 ##What is this?
-{{page.excerpt}} 
-
 HTML and CSS are the building blocks of every website. HTML is to create the content of a site. For example, this very paragraph is written in HTML. CSS is used to style websites. All colors and fonts, <span style="color:#f25405; font-weight:bold; font-family:Arvo, serif">like this</span> on websites are written in CSS. Together, they can be used to build functional and beautiful websites.
 
 The [Rails Girls KL tutorial](http://railsgirls-my.github.io/app/) also uses HTML and CSS. If you want to learn how to style your web application differently and make it prettier, this is the class for you!
+
+** Do apply even if you didn't attend the previous Rails Girls Ruby on Rails workshop!
 
 ##When and where is this happening?
 <table class="ce-event-details-table">
@@ -74,7 +74,7 @@ Yes! Suitable for beginners and ideal for secondary school students and above. W
 If you are a parent and would like to sign up for a younger child, please get in touch with us to ensure that the pace of the class would be suitable for them.
 
 ##Can I still join this class if I did not attend the previous [Rails Girls KL workshop](http://railsgirls.com/kl)?
-Absolutely!
+Absolutely! You won't be at any disadvantage as we will not be using Ruby on Rails during the workshop.
 
 ##Will we be learning Ruby or Rails here?
 Nope, though we'll be doing a quick demo of how you can change the html/css in your Rails Girls KL web application.
