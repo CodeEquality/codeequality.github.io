@@ -8,7 +8,7 @@ eventTime: 9am - 1pm
 eventVenue: Venue TBD
 eventDeadline: 3rd October '14
 eventAcceptance: 6th October '14'
-eventApplication: http://bit.ly/1Ca9fjk
+eventApplication: http://bit.ly/1mqFgj8
 eventImage: /img/events/intro-html/rgklhtmlcss.png
 eventThumb: /img/events/intro-html/rgklhtmlcss.png
 excerpt: An intro course for building websites with HTML and CSS. Do apply even if you didn't attend the previous Rails Girls Ruby on Rails workshop!
@@ -83,7 +83,7 @@ Nope, though we'll be doing a quick demo of how you can change the html/css in y
 Yes! But we are not providing any food/coffee. 
 
 ##I'm a guy, can I attend?
-Men are welcomed. However, priority for seats will be given to ladies.
+Yup! Men are welcomed as +1. Please let us know which female friends you're applying with.
 
 ##What will we be doing?
 We will be building a static website from scratch! By the end of the class you will have the basics to further venture out in the world of web design and development. Here is an example of a <a href="http://mcopages.com/sherminn/" target="_blank">simple homepage</a>. Some of the topics we'll be covering are the basics of HTML/CSS, website design and how to upload a website.
