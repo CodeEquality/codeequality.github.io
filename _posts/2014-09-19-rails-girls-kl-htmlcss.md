@@ -5,7 +5,7 @@ title: Rails Girls KL - Learn HTML/CSS
 type: Course
 eventDate: 11th October '14
 eventTime: 9am - 1pm
-eventVenue: Venue TBD
+eventVenue: SAYS Office, Damansara Uptown 1
 eventDeadline: 3rd October '14
 eventAcceptance: 6th October '14'
 eventApplication: http://bit.ly/1mqFgj8
@@ -38,7 +38,7 @@ The [Rails Girls KL tutorial](http://railsgirls-my.github.io/app/) also uses HTM
 
 	<tr>
 		<td>Venue:</td>
-		<td>{{page.eventVenue}}</td>
+		<td>SAYS Office<br/>The Penthouse, Level 19, Uptown 1<br/>Jalan SS21/58, Damansara Utama<br/>47400 Petaling Jaya, Selangor, Malaysia</td>
 	</tr>
 </table>
 
