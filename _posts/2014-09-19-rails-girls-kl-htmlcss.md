@@ -3,11 +3,11 @@
 layout: event
 title: Rails Girls KL - Learn HTML/CSS 
 type: Course
-eventDate: 11th October '14
-eventTime: 9am - 1pm
+eventDate: Oct 11, 2014
+eventTime: 9am-1pm
 eventVenue: SAYS Office, Damansara Uptown 1
-eventDeadline: 3rd October '14
-eventAcceptance: 6th October '14'
+eventDeadline: Oct 3, 2014
+eventAcceptance: Oct 6, 2014
 eventApplication: http://bit.ly/1mqFgj8
 eventImage: /img/events/intro-html/rgklhtmlcss.png
 eventThumb: /img/events/intro-html/rgklhtmlcss.png
@@ -131,10 +131,10 @@ To find out more about us, check out our <a href="http://codeequality.org/index.
 
 ##I'd like to help out!
 Sure! We're always on the lookout for tutors to assist students during the class. All of our instructors and tutors are volunteers. Just drop us an email at
-<a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a>
+<a href="mailto:hello@CodeEquality.org">hello@CodeEquality.org</a>
 and we'll get back to you!
 
 ##I have more questions!
 Feel free to contact us at
-<a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a>
+<a href="mailto:hello@CodeEquality.org">hello@CodeEquality.org</a>
 . Please give us 24 hours to respond to your enquires.

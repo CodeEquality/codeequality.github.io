@@ -3,9 +3,9 @@
 layout: event
 title: Rails Girls KL - Ruby on Rails
 type: Workshop
-eventDate: 6 September 2014
-eventTime: 9:30am - 4:00pm
-eventVenue:  SAYS Office, Damansara Uptown
+eventDate: Sept 6, 2014
+eventTime: 9:30am-4pm
+eventVenue:  SAYS Office, Damansara Uptown 1
 eventImage: /img/events/rails-girls/rgkl.png
 eventThumb: /img/events/rails-girls/rgkl.png
 excerpt: For the first time ever, Rails Girls is coming to Kuala Lumpur, Malaysia!

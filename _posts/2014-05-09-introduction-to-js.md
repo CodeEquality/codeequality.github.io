@@ -3,8 +3,9 @@
 layout: event
 title: Introduction to Javascript
 type: Course
-eventDate: 24 May '14, 9am-1pm
-eventVenue: iTrain Malaysia, E-7-1, Block E, Megan Avenue 1
+eventDate: May 24, 2014
+eventTime: 9am-1pm
+eventVenue: iTrain M'sia, E-7-1, Block E, Megan Avenue 1
 eventImage: /img/events/intro-js/intro-js-poster.png
 eventThumb: /img/events/intro-js/intro-js-poster.png
 excerpt: An introductory hands-on course for students curious about web development with HTML/CSS and Javascript.
@@ -64,4 +65,4 @@ If you are coming from Ampang Park LRT, use the the Bank of China/ Intermark exi
 To find out more about Code Equality, check out our <a href="http://codeequality.org/index.html#about">About section</a>. 
 
 ##I have more questions!
-Feel free to contact us at <a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a>. Please give us 24 hours to respond to your enquires. 
+Feel free to contact us at <a href="mailto:hello@CodeEquality.org">hello@CodeEquality.org</a>. Please give us 24 hours to respond to your enquires. 

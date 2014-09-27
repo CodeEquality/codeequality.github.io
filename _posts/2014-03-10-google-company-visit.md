@@ -2,8 +2,9 @@
 layout: event
 title: Google Malaysia Company Visit
 type: Visit
-eventDate: 1st April '14, 9:45am - 11:30am
-eventVenue: Google Malaysia, Jalan Stesen Sentral 5, KL Sentral
+eventDate: Apr 1, 2014
+eventTime: 9:45am-11:30am
+eventVenue: Google, Jln Stesen Sentral 5, KL Sentral
 eventImage: /img/events/company-visit-google-1.png
 eventThumb: /img/events/company-visit-google-1.png
 excerpt: First in our series of company visits -- Google Malaysia.
@@ -66,6 +67,6 @@ No worries if you can't make it, there will be other company visits to come!
 
 
 ##More questions?
-Get in touch with us at [CodeEquality@gmail.org](mailto:CodeEquality@gmail.org) or find out more about why we do what we do at our [About section](http://codeequality.org#about).
+Get in touch with us at [hello@CodeEquality.org](mailto:hello@CodeEquality.org) or find out more about why we do what we do at our [About section](http://codeequality.org#about).
 
 _Google and the Google logo are registered trademarks of Google Inc., used with permission._

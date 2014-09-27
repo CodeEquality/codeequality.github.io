@@ -3,9 +3,9 @@
 layout: event
 title: An Introduction to HTML and CSS Workshop 
 type: Course
-eventDate: 20th July '14
-eventTime: 9am - 1pm
-eventVenue:  Wisma Jobstreet, Lorong Medan Tuanku 1, Kuala Lumpur 
+eventDate: Jul 20, 2014
+eventTime: 9am-1pm
+eventVenue:  Wisma Jobstreet, Lorong Medan Tuanku 1, KL
 eventImage: /img/events/intro-html/thumb.png
 eventThumb: /img/events/intro-html/thumb.png
 excerpt: An introductory hands-on course for those who want to learn how to build websites with HTML and CSS.
@@ -65,7 +65,7 @@ Fill in this Google Form to register:
 ###Step 2
 There is a RM15 registration fee. We will email you the bank details with an invitation email. Please allow 48 hours for the invitation.
 
-Please send us (<a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a>) a screenshot of your bank transfer as we need to verify your transaction with our bank statement. 
+Please send us (<a href="mailto:hello@CodeEquality.org">hello@CodeEquality.org</a>) a screenshot of your bank transfer as we need to verify your transaction with our bank statement. 
 
 ###Step 3
 Your seat is only confirmed once we have received the deposit and we will email you with the confirmation. Please note that your seat is not guaranteed until you have received the seat confirmation from us.
@@ -126,10 +126,10 @@ To find out more about us, check out our <a href="http://codeequality.org/index.
 
 ##I'd like to help out!
 Sure! We're always on the lookout for tutors to assist students during the class. All of our instructors and tutors are volunteers. Just drop us an email at
-<a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a>
+<a href="mailto:hello@CodeEquality.org">hello@CodeEquality.org</a>
 and we'll get back to you!
 
 ##I have more questions!
 Feel free to contact us at
-<a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a>
+<a href="mailto:hello@CodeEquality.org">hello@CodeEquality.org</a>
 . Please give us 24 hours to respond to your enquires.

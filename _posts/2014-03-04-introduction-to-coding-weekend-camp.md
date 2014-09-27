@@ -2,8 +2,9 @@
 layout: event
 title: A Weekend Introduction to Coding
 type: Course
-eventDate: 29-30th March '14, 9am-5pm
-eventVenue: Wisma Jobstreet, Lorong Medan Tuanku 1, Kuala Lumpur 
+eventDate: Mar 29-30, 2014
+eventTime: 9am-5pm
+eventVenue: Wisma Jobstreet, Lrg Medan Tuanku 1, KL 
 eventImage: /img/events/02.png
 eventThumb: /img/events/intro-to-coding-2014.png
 excerpt: An introduction to coding with Python and HTML/CSS. For those who are curious.
@@ -56,13 +57,13 @@ If you do not inform us at least 2 days in advance, your registration fee will b
 </div>
 
 ##I got a seat! What now?
-Hang in tight till March the 29th! Do not hestitate to message us on Facebook at Code Equality or email us at <a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a> for further questions.
+Hang in tight till March the 29th! Do not hestitate to message us on Facebook at Code Equality or email us at <a href="mailto:hello@CodeEquality.org">hello@CodeEquality.org</a> for further questions.
 
 ##Who are you guys? And why are you doing this?
 To find out more about Code Equality, check out our <a href="http://codeequality.org/index.html#about">About section</a>. 
 
 ##I have more questions!
-Just send them to us via Facebook or via email at <a href="mailto:codeequality@gmail.com">codeequality@gmail.com</a> and we'll get back to you ASAP! You may also contact us at +6 011-1139 6136 for any urgent matters.
+Just send them to us via Facebook or via email at <a href="mailto:hello@CodeEquality.org">hello@CodeEquality.org</a> and we'll get back to you ASAP! You may also contact us at +6 011-1139 6136 for any urgent matters.
 
 __Cheers!__
 
