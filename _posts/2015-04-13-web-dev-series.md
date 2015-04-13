@@ -3,9 +3,9 @@
 layout: event
 title: Rails Girls Web Dev Series - Pt 1
 type: Workshop Series
-eventDate: May 9, 2015 - TBA
-eventTime: TBA
-eventVenue: TBA
+eventDate: May 9, 2015
+eventTime: Time TBA
+eventVenue: Venue TBA
 eventApplication: https://docs.google.com/forms/d/1nW6J3c1Hd2afC94bJuav8cFNKXqSMIRdJ2HNroWoCJw/viewform
 eventImage: /img/events/rails-girls/rgkl-mascot.png
 eventThumb: /img/events/rails-girls/rgkl-mascot.png
