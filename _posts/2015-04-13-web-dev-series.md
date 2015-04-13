@@ -7,8 +7,8 @@ eventDate: May 9, 2015 - TBA
 eventTime: TBA
 eventVenue: TBA
 eventApplication: https://docs.google.com/forms/d/1nW6J3c1Hd2afC94bJuav8cFNKXqSMIRdJ2HNroWoCJw/viewform
-eventImage: /img/events/intro-html/rgklhtmlcss.png
-eventThumb: /img/events/intro-html/rgklhtmlcss.png
+eventImage: /img/events/rails-girls/rgkl-mascot.png
+eventThumb: /img/events/rails-girls/rgkl-mascot.png
 excerpt: This a 4-part beginner workshop series that will teach you how to build full-fledged websites and web apps. 
 
 ---
